@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: c9591310f0f62e04dbccccfe9cf113d9
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 3b9084f10eac83da5bbc21d2e94c50a9
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 8.586749, y: 3.0729616, z: 5.298265}
+      lookAt: {x: -11.733395, y: -4.875519, z: -3.9582226}
+      up: {x: -0.30518267, y: 0.94209176, z: -0.13902064}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: C Base Left
+    100002: C Base Left 1
+    100004: C Base Right
+    100006: C Base Right 1
+    100008: C Base#1
+    100010: C Base#1 1
+    100012: C Glass
+    100014: C Glass 1
+    100016: C Head
+    100018: C Head 1
+    100020: C Head Left
+    100022: C Head Left 1
+    100024: C Head Right
+    100026: C Head Right 1
+    100028: C Left
+    100030: C Left 1
+    100032: C Right
+    100034: C Right 1
+    100036: coulissante#2
+    100038: coulissante#3
+    100040: F Base
+    100042: F Base 1
+    100044: F Base Left
+    100046: F Base Left 1
+    100048: F Base Right
+    100050: F Base Right 1
+    100052: F Head
+    100054: F Head 1
+    100056: F Head Droit
+    100058: F Head Droit 1
+    100060: F Head Gauche
+    100062: F Head Gauche 1
+    100064: F Left
+    100066: F Left 1
+    100068: F Right
+    100070: F Right 1
+    100072: Glass
+    100074: Glass 1
+    100076: Group 10
+    100078: Group 12
+    100080: Group 122
+    100082: Group 124
+    100084: Group 14
+    100086: Group 16
+    100088: Group 18
+    100090: Group 2
+    100092: Group 20
+    100094: Group 22
+    100096: Group 24
+    100098: Group 26
+    100100: Group 28
+    100102: Group 30
+    100104: Group 32
+    100106: Group 34
+    100108: Group 4
+    100110: Group 6
+    100112: Group 8
+    100114: Group 96
+    100116: Group 98
+    100118: //RootNode
+    100120: Image 101
+    100122: Image 56
+    100124: Logo- AWS
+    100126: Logo- AWS 1
+    100128: vitre#2
+    100130: vitre#3
+    100132: Window Handle
+    100134: Window Handle 1
+    400000: C Base Left
+    400002: C Base Left 1
+    400004: C Base Right
+    400006: C Base Right 1
+    400008: C Base#1
+    400010: C Base#1 1
+    400012: C Glass
+    400014: C Glass 1
+    400016: C Head
+    400018: C Head 1
+    400020: C Head Left
+    400022: C Head Left 1
+    400024: C Head Right
+    400026: C Head Right 1
+    400028: C Left
+    400030: C Left 1
+    400032: C Right
+    400034: C Right 1
+    400036: coulissante#2
+    400038: coulissante#3
+    400040: F Base
+    400042: F Base 1
+    400044: F Base Left
+    400046: F Base Left 1
+    400048: F Base Right
+    400050: F Base Right 1
+    400052: F Head
+    400054: F Head 1
+    400056: F Head Droit
+    400058: F Head Droit 1
+    400060: F Head Gauche
+    400062: F Head Gauche 1
+    400064: F Left
+    400066: F Left 1
+    400068: F Right
+    400070: F Right 1
+    400072: Glass
+    400074: Glass 1
+    400076: Group 10
+    400078: Group 12
+    400080: Group 122
+    400082: Group 124
+    400084: Group 14
+    400086: Group 16
+    400088: Group 18
+    400090: Group 2
+    400092: Group 20
+    400094: Group 22
+    400096: Group 24
+    400098: Group 26
+    400100: Group 28
+    400102: Group 30
+    400104: Group 32
+    400106: Group 34
+    400108: Group 4
+    400110: Group 6
+    400112: Group 8
+    400114: Group 96
+    400116: Group 98
+    400118: //RootNode
+    400120: Image 101
+    400122: Image 56
+    400124: Logo- AWS
+    400126: Logo- AWS 1
+    400128: vitre#2
+    400130: vitre#3
+    400132: Window Handle
+    400134: Window Handle 1
+    2100000: _defaultMat
+    2100002: '[0130_Gainsboro]'
+    2100004: '[0135_DarkGray]'
+    2100006: '[0128_White]'
+    2100008: '[Translucent_Glass_Green_Dark]'
+    2100010: '[Color_000]'
+    2100012: '[Color_D10]'
+    2100014: '[Metal_Steel_Textured_White]'
+    2100016: '[Color_009]'
+    2100018: _Gray_
+    2100020: _LightGray_
+    2100022: _Low E Glass_
+    2100024: AWS- Glass
+    2100026: Material 13
+    2100028: AWS- Handle
+    2300000: C Base Left
+    2300002: C Base Left 1
+    2300004: C Base Right
+    2300006: C Base Right 1
+    2300008: C Base#1
+    2300010: C Base#1 1
+    2300012: C Glass
+    2300014: C Glass 1
+    2300016: C Head
+    2300018: C Head 1
+    2300020: C Head Left
+    2300022: C Head Left 1
+    2300024: C Head Right
+    2300026: C Head Right 1
+    2300028: C Left
+    2300030: C Left 1
+    2300032: C Right
+    2300034: C Right 1
+    2300036: F Base
+    2300038: F Base 1
+    2300040: F Base Left
+    2300042: F Base Left 1
+    2300044: F Base Right
+    2300046: F Base Right 1
+    2300048: F Head
+    2300050: F Head 1
+    2300052: F Head Droit
+    2300054: F Head Droit 1
+    2300056: F Head Gauche
+    2300058: F Head Gauche 1
+    2300060: F Left
+    2300062: F Left 1
+    2300064: F Right
+    2300066: F Right 1
+    2300068: Glass
+    2300070: Glass 1
+    2300072: Group 10
+    2300074: Group 12
+    2300076: Group 122
+    2300078: Group 124
+    2300080: Group 14
+    2300082: Group 16
+    2300084: Group 18
+    2300086: Group 2
+    2300088: Group 20
+    2300090: Group 22
+    2300092: Group 24
+    2300094: Group 26
+    2300096: Group 28
+    2300098: Group 30
+    2300100: Group 32
+    2300102: Group 34
+    2300104: Group 4
+    2300106: Group 6
+    2300108: Group 8
+    2300110: Group 96
+    2300112: Group 98
+    2300114: //RootNode
+    2300116: Image 101
+    2300118: Image 56
+    3300000: C Base Left
+    3300002: C Base Left 1
+    3300004: C Base Right
+    3300006: C Base Right 1
+    3300008: C Base#1
+    3300010: C Base#1 1
+    3300012: C Glass
+    3300014: C Glass 1
+    3300016: C Head
+    3300018: C Head 1
+    3300020: C Head Left
+    3300022: C Head Left 1
+    3300024: C Head Right
+    3300026: C Head Right 1
+    3300028: C Left
+    3300030: C Left 1
+    3300032: C Right
+    3300034: C Right 1
+    3300036: F Base
+    3300038: F Base 1
+    3300040: F Base Left
+    3300042: F Base Left 1
+    3300044: F Base Right
+    3300046: F Base Right 1
+    3300048: F Head
+    3300050: F Head 1
+    3300052: F Head Droit
+    3300054: F Head Droit 1
+    3300056: F Head Gauche
+    3300058: F Head Gauche 1
+    3300060: F Left
+    3300062: F Left 1
+    3300064: F Right
+    3300066: F Right 1
+    3300068: Glass
+    3300070: Glass 1
+    3300072: Group 10
+    3300074: Group 12
+    3300076: Group 122
+    3300078: Group 124
+    3300080: Group 14
+    3300082: Group 16
+    3300084: Group 18
+    3300086: Group 2
+    3300088: Group 20
+    3300090: Group 22
+    3300092: Group 24
+    3300094: Group 26
+    3300096: Group 28
+    3300098: Group 30
+    3300100: Group 32
+    3300102: Group 34
+    3300104: Group 4
+    3300106: Group 6
+    3300108: Group 8
+    3300110: Group 96
+    3300112: Group 98
+    3300114: //RootNode
+    3300116: Image 101
+    3300118: Image 56
+    4300000: Mesh guard+house+2 (1)
+    4300002: Mesh Group 2
+    4300004: Mesh Group 4
+    4300006: Mesh Group 6
+    4300008: Mesh Group 8
+    4300010: Mesh Group 10
+    4300012: Mesh Group 14
+    4300014: Mesh Group 16
+    4300016: Mesh Group 18
+    4300018: Mesh Group 20
+    4300020: Mesh Group 24
+    4300022: Mesh Group 28
+    4300024: Mesh Group 32
+    4300026: Mesh Group 34
+    4300028: Mesh F Base Left
+    4300030: Mesh F Base
+    4300032: Mesh F Left
+    4300034: Mesh F Base Right
+    4300036: Mesh F Right
+    4300038: Mesh F Head Gauche
+    4300040: Mesh F Head Droit
+    4300042: Mesh F Head
+    4300044: Mesh Glass
+    4300046: Mesh Logo- AWS
+    4300048: Mesh C Base Left
+    4300050: Mesh C Base#1
+    4300052: Mesh C Left
+    4300054: Mesh C Base Right
+    4300056: Mesh C Right
+    4300058: Mesh C Head Left
+    4300060: Mesh C Head Right
+    4300062: Mesh C Head
+    4300064: Mesh C Glass
+    4300066: Mesh Group 96
+    4300068: Mesh Group 98
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

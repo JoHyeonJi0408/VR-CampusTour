@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: fa134bb4bc0bf244c87d6218438339ad
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f00000020000000210000002200000023000000
+  assetHash:
+    serializedVersion: 2
+    Hash: a260e7ae7cf7d614af0c08969cdd150a
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 12.249193, y: 2.690251, z: -4.8531775}
+      lookAt: {x: 2.4886825, y: 1.2707125, z: 1.4114794}
+      up: {x: -0.10224098, y: 0.9925928, z: 0.06562205}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Aluminum casement window 28.5 in. x 36 in.
+    100002: Component#2
+    100004: Component#2 1
+    100006: ExecChairBase
+    100008: ExecChairBase 1
+    100010: Glass Door
+    100012: Group 12
+    100014: Group 4
+    100016: //RootNode
+    100018: i-mac 1500 dual desk
+    100020: i-mac 1500 dual desk 1
+    100022: i-mac 1500 dual white
+    100024: i-mac 1500 dual white 1
+    100026: i-mac 22in_sat-2999-3D
+    100028: i-mac 22in_sat-2999-3D 1
+    100030: i-mac 22in_sat-2999-3D 2
+    100032: i-mac 22in_sat-2999-3D 3
+    100034: Office Chair
+    100036: Office Chair 1
+    400000: Aluminum casement window 28.5 in. x 36 in.
+    400002: Component#2
+    400004: Component#2 1
+    400006: ExecChairBase
+    400008: ExecChairBase 1
+    400010: Glass Door
+    400012: Group 12
+    400014: Group 4
+    400016: //RootNode
+    400018: i-mac 1500 dual desk
+    400020: i-mac 1500 dual desk 1
+    400022: i-mac 1500 dual white
+    400024: i-mac 1500 dual white 1
+    400026: i-mac 22in_sat-2999-3D
+    400028: i-mac 22in_sat-2999-3D 1
+    400030: i-mac 22in_sat-2999-3D 2
+    400032: i-mac 22in_sat-2999-3D 3
+    400034: Office Chair
+    400036: Office Chair 1
+    2100000: _defaultMat
+    2100002: '[0128_White]'
+    2100004: '[0020_Red]'
+    2100006: '[Translucent_Glass_Gray]'
+    2100008: '[Translucent_Glass_Blue]'
+    2100010: _Gray Glass_1
+    2100012: _Ivory_
+    2100014: Steve_Edges
+    2100016: _2
+    2100018: WM8340_458
+    2100020: imac
+    2100022: _1
+    2100024: _Charcoal_
+    2300000: Aluminum casement window 28.5 in. x 36 in.
+    2300002: Component#2
+    2300004: Component#2 1
+    2300006: ExecChairBase
+    2300008: ExecChairBase 1
+    2300010: Glass Door
+    2300012: Group 12
+    2300014: Group 4
+    2300016: //RootNode
+    2300018: i-mac 1500 dual desk
+    2300020: i-mac 1500 dual desk 1
+    2300022: i-mac 22in_sat-2999-3D
+    2300024: i-mac 22in_sat-2999-3D 1
+    2300026: i-mac 22in_sat-2999-3D 2
+    2300028: i-mac 22in_sat-2999-3D 3
+    2300030: Office Chair
+    2300032: Office Chair 1
+    3300000: Aluminum casement window 28.5 in. x 36 in.
+    3300002: Component#2
+    3300004: Component#2 1
+    3300006: ExecChairBase
+    3300008: ExecChairBase 1
+    3300010: Glass Door
+    3300012: Group 12
+    3300014: Group 4
+    3300016: //RootNode
+    3300018: i-mac 1500 dual desk
+    3300020: i-mac 1500 dual desk 1
+    3300022: i-mac 22in_sat-2999-3D
+    3300024: i-mac 22in_sat-2999-3D 1
+    3300026: i-mac 22in_sat-2999-3D 2
+    3300028: i-mac 22in_sat-2999-3D 3
+    3300030: Office Chair
+    3300032: Office Chair 1
+    4300000: Mesh Guard+House (1)
+    4300002: Mesh Glass Door
+    4300004: Mesh Group 4
+    4300006: Mesh Component#2
+    4300008: Mesh Aluminum casement window 28.5 in. x 36 in.
+    4300010: Mesh Group 12
+    4300012: Mesh i-mac 1500 dual desk
+    4300014: Mesh i-mac 22in_sat-2999-3D
+    4300016: Mesh Office Chair
+    4300018: Mesh ExecChairBase
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steve_Edges
+    second: {fileID: 2100004, guid: c9591310f0f62e04dbccccfe9cf113d9, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WM8340_458
+    second: {fileID: 2100000, guid: 383f8bb6e703c484b86b9b386f0e904c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0020_Red]'
+    second: {fileID: 2100004, guid: 0c838b67b3cb30a449ece84d6e5bb4e5, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0128_White]'
+    second: {fileID: 2100004, guid: ac0d93c3f0ab66c45882c9bd03215ff2, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Blue]'
+    second: {fileID: 2100000, guid: 9eacc2e5b1cecdd42ab5c7c04b96a60a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Gray]'
+    second: {fileID: 2100000, guid: 723064402b9f17e48bf3339419bd1ed0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _1
+    second: {fileID: 2100000, guid: bda7714e0ca0d45458ae104e40889db1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _2
+    second: {fileID: 2100000, guid: 818f404a6c7e47940980eed8f2f7cdb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Charcoal_
+    second: {fileID: 2100016, guid: 70ba5e5d3056fd94181c715c7398744d, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Gray Glass_1
+    second: {fileID: 2100000, guid: a04a7c7f1f3a0514fa84485b492099e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Ivory_
+    second: {fileID: 2100000, guid: 1d5c2f887bfd0b84493ac719a2834310, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 302ea45a52211714786cd8e8f6a047ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: imac
+    second: {fileID: 2100000, guid: c4407a7a62c69e9469c21a231a13d96b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WM8340_458
+    second: {fileID: 2800000, guid: 93c777e6c29d154428982b3d48ac47ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: imac
+    second: {fileID: 2800000, guid: da3b19e03e0d5424b9560606ab5db753, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

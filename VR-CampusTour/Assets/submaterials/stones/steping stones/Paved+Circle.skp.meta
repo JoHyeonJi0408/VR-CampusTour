@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 29c5cd359da50b04e9932af777df74bf
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 11e0d337e13d7dadbe7550eaec5efe96
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 6.075199, y: 4.2260036, z: 10.212195}
+      lookAt: {x: -8.120386, y: -13.678835, z: -17.88239}
+      up: {x: -0.22297598, y: 0.8692192, z: -0.44129336}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: old brick
+    100002: old brick 1
+    100004: old brick 10
+    100006: old brick 11
+    100008: old brick 12
+    100010: old brick 13
+    100012: old brick 14
+    100014: old brick 15
+    100016: old brick 16
+    100018: old brick 17
+    100020: old brick 18
+    100022: old brick 19
+    100024: old brick 2
+    100026: old brick 20
+    100028: old brick 21
+    100030: old brick 22
+    100032: old brick 23
+    100034: old brick 24
+    100036: old brick 25
+    100038: old brick 26
+    100040: old brick 27
+    100042: old brick 28
+    100044: old brick 29
+    100046: old brick 3
+    100048: old brick 30
+    100050: old brick 31
+    100052: old brick 32
+    100054: old brick 33
+    100056: old brick 34
+    100058: old brick 35
+    100060: old brick 36
+    100062: old brick 37
+    100064: old brick 38
+    100066: old brick 39
+    100068: old brick 4
+    100070: old brick 40
+    100072: old brick 41
+    100074: old brick 42
+    100076: old brick 43
+    100078: old brick 44
+    100080: old brick 45
+    100082: old brick 46
+    100084: old brick 47
+    100086: old brick 48
+    100088: old brick 49
+    100090: old brick 5
+    100092: old brick 50
+    100094: old brick 51
+    100096: old brick 52
+    100098: old brick 53
+    100100: old brick 54
+    100102: old brick 55
+    100104: old brick 56
+    100106: old brick 57
+    100108: old brick 58
+    100110: old brick 59
+    100112: old brick 6
+    100114: old brick 60
+    100116: old brick 61
+    100118: old brick 62
+    100120: old brick 63
+    100122: old brick 64
+    100124: old brick 65
+    100126: old brick 66
+    100128: old brick 67
+    100130: old brick 68
+    100132: old brick 69
+    100134: old brick 7
+    100136: old brick 70
+    100138: old brick 71
+    100140: old brick 8
+    100142: old brick 9
+    100144: Patio Stone Circle
+    100146: //RootNode
+    400000: old brick
+    400002: old brick 1
+    400004: old brick 10
+    400006: old brick 11
+    400008: old brick 12
+    400010: old brick 13
+    400012: old brick 14
+    400014: old brick 15
+    400016: old brick 16
+    400018: old brick 17
+    400020: old brick 18
+    400022: old brick 19
+    400024: old brick 2
+    400026: old brick 20
+    400028: old brick 21
+    400030: old brick 22
+    400032: old brick 23
+    400034: old brick 24
+    400036: old brick 25
+    400038: old brick 26
+    400040: old brick 27
+    400042: old brick 28
+    400044: old brick 29
+    400046: old brick 3
+    400048: old brick 30
+    400050: old brick 31
+    400052: old brick 32
+    400054: old brick 33
+    400056: old brick 34
+    400058: old brick 35
+    400060: old brick 36
+    400062: old brick 37
+    400064: old brick 38
+    400066: old brick 39
+    400068: old brick 4
+    400070: old brick 40
+    400072: old brick 41
+    400074: old brick 42
+    400076: old brick 43
+    400078: old brick 44
+    400080: old brick 45
+    400082: old brick 46
+    400084: old brick 47
+    400086: old brick 48
+    400088: old brick 49
+    400090: old brick 5
+    400092: old brick 50
+    400094: old brick 51
+    400096: old brick 52
+    400098: old brick 53
+    400100: old brick 54
+    400102: old brick 55
+    400104: old brick 56
+    400106: old brick 57
+    400108: old brick 58
+    400110: old brick 59
+    400112: old brick 6
+    400114: old brick 60
+    400116: old brick 61
+    400118: old brick 62
+    400120: old brick 63
+    400122: old brick 64
+    400124: old brick 65
+    400126: old brick 66
+    400128: old brick 67
+    400130: old brick 68
+    400132: old brick 69
+    400134: old brick 7
+    400136: old brick 70
+    400138: old brick 71
+    400140: old brick 8
+    400142: old brick 9
+    400144: Patio Stone Circle
+    400146: //RootNode
+    2100000: _defaultMat
+    2100002: '[Concrete_Stamped_Ashlar]'
+    2100004: _Concrete_Stamped_Ashlar_#1
+    2100006: '[Stone_Brushed_Khaki]'
+    2100008: _1
+    2300000: old brick
+    2300002: old brick 1
+    2300004: old brick 10
+    2300006: old brick 11
+    2300008: old brick 12
+    2300010: old brick 13
+    2300012: old brick 14
+    2300014: old brick 15
+    2300016: old brick 16
+    2300018: old brick 17
+    2300020: old brick 18
+    2300022: old brick 19
+    2300024: old brick 2
+    2300026: old brick 20
+    2300028: old brick 21
+    2300030: old brick 22
+    2300032: old brick 23
+    2300034: old brick 24
+    2300036: old brick 25
+    2300038: old brick 26
+    2300040: old brick 27
+    2300042: old brick 28
+    2300044: old brick 29
+    2300046: old brick 3
+    2300048: old brick 30
+    2300050: old brick 31
+    2300052: old brick 32
+    2300054: old brick 33
+    2300056: old brick 34
+    2300058: old brick 35
+    2300060: old brick 36
+    2300062: old brick 37
+    2300064: old brick 38
+    2300066: old brick 39
+    2300068: old brick 4
+    2300070: old brick 40
+    2300072: old brick 41
+    2300074: old brick 42
+    2300076: old brick 43
+    2300078: old brick 44
+    2300080: old brick 45
+    2300082: old brick 46
+    2300084: old brick 47
+    2300086: old brick 48
+    2300088: old brick 49
+    2300090: old brick 5
+    2300092: old brick 50
+    2300094: old brick 51
+    2300096: old brick 52
+    2300098: old brick 53
+    2300100: old brick 54
+    2300102: old brick 55
+    2300104: old brick 56
+    2300106: old brick 57
+    2300108: old brick 58
+    2300110: old brick 59
+    2300112: old brick 6
+    2300114: old brick 60
+    2300116: old brick 61
+    2300118: old brick 62
+    2300120: old brick 63
+    2300122: old brick 64
+    2300124: old brick 65
+    2300126: old brick 66
+    2300128: old brick 67
+    2300130: old brick 68
+    2300132: old brick 69
+    2300134: old brick 7
+    2300136: old brick 70
+    2300138: old brick 71
+    2300140: old brick 8
+    2300142: old brick 9
+    2300144: Patio Stone Circle
+    3300000: old brick
+    3300002: old brick 1
+    3300004: old brick 10
+    3300006: old brick 11
+    3300008: old brick 12
+    3300010: old brick 13
+    3300012: old brick 14
+    3300014: old brick 15
+    3300016: old brick 16
+    3300018: old brick 17
+    3300020: old brick 18
+    3300022: old brick 19
+    3300024: old brick 2
+    3300026: old brick 20
+    3300028: old brick 21
+    3300030: old brick 22
+    3300032: old brick 23
+    3300034: old brick 24
+    3300036: old brick 25
+    3300038: old brick 26
+    3300040: old brick 27
+    3300042: old brick 28
+    3300044: old brick 29
+    3300046: old brick 3
+    3300048: old brick 30
+    3300050: old brick 31
+    3300052: old brick 32
+    3300054: old brick 33
+    3300056: old brick 34
+    3300058: old brick 35
+    3300060: old brick 36
+    3300062: old brick 37
+    3300064: old brick 38
+    3300066: old brick 39
+    3300068: old brick 4
+    3300070: old brick 40
+    3300072: old brick 41
+    3300074: old brick 42
+    3300076: old brick 43
+    3300078: old brick 44
+    3300080: old brick 45
+    3300082: old brick 46
+    3300084: old brick 47
+    3300086: old brick 48
+    3300088: old brick 49
+    3300090: old brick 5
+    3300092: old brick 50
+    3300094: old brick 51
+    3300096: old brick 52
+    3300098: old brick 53
+    3300100: old brick 54
+    3300102: old brick 55
+    3300104: old brick 56
+    3300106: old brick 57
+    3300108: old brick 58
+    3300110: old brick 59
+    3300112: old brick 6
+    3300114: old brick 60
+    3300116: old brick 61
+    3300118: old brick 62
+    3300120: old brick 63
+    3300122: old brick 64
+    3300124: old brick 65
+    3300126: old brick 66
+    3300128: old brick 67
+    3300130: old brick 68
+    3300132: old brick 69
+    3300134: old brick 7
+    3300136: old brick 70
+    3300138: old brick 71
+    3300140: old brick 8
+    3300142: old brick 9
+    3300144: Patio Stone Circle
+    4300000: Mesh Patio Stone Circle
+    4300002: Mesh old brick
+    4300004: Mesh old brick
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 9bfe415362b98d14b8ff546b29f461b0
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f00000040000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 991e3e0a0d8baebc913f8b995df49ccf
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.21539, y: 0.99768156, z: -3.92204}
+      lookAt: {x: 1.21539, y: 0.99768156, z: 0.0508}
+      up: {x: 0, y: 1, z: 0}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bar curved
+    100002: bar curved 1
+    100004: bar curved 2
+    100006: bar curved 3
+    100008: bracket
+    100010: bracket 1
+    100012: bracket 2
+    100014: bracket 3
+    100016: crossbar
+    100018: crossbar 1
+    100020: crossbar 2
+    100022: crossbar 3
+    100024: //RootNode
+    100026: gate
+    100028: gate 1
+    100030: gate half
+    100032: gate half 1
+    100034: post
+    100036: post 1
+    100038: post 2
+    100040: post 3
+    100042: post 4
+    100044: post 5
+    100046: rail
+    100048: rail 1
+    100050: rail 10
+    100052: rail 11
+    100054: rail 2
+    100056: rail 3
+    100058: rail 4
+    100060: rail 5
+    100062: rail 6
+    100064: rail 7
+    100066: rail 8
+    100068: rail 9
+    400000: bar curved
+    400002: bar curved 1
+    400004: bar curved 2
+    400006: bar curved 3
+    400008: bracket
+    400010: bracket 1
+    400012: bracket 2
+    400014: bracket 3
+    400016: crossbar
+    400018: crossbar 1
+    400020: crossbar 2
+    400022: crossbar 3
+    400024: //RootNode
+    400026: gate
+    400028: gate 1
+    400030: gate half
+    400032: gate half 1
+    400034: post
+    400036: post 1
+    400038: post 2
+    400040: post 3
+    400042: post 4
+    400044: post 5
+    400046: rail
+    400048: rail 1
+    400050: rail 10
+    400052: rail 11
+    400054: rail 2
+    400056: rail 3
+    400058: rail 4
+    400060: rail 5
+    400062: rail 6
+    400064: rail 7
+    400066: rail 8
+    400068: rail 9
+    2100000: _DarkGray_
+    2300000: bar curved
+    2300002: bar curved 1
+    2300004: bar curved 2
+    2300006: bar curved 3
+    2300008: bracket
+    2300010: bracket 1
+    2300012: bracket 2
+    2300014: bracket 3
+    2300016: crossbar
+    2300018: crossbar 1
+    2300020: crossbar 2
+    2300022: crossbar 3
+    2300024: post
+    2300026: post 1
+    2300028: post 2
+    2300030: post 3
+    2300032: post 4
+    2300034: post 5
+    2300036: rail
+    2300038: rail 1
+    2300040: rail 10
+    2300042: rail 11
+    2300044: rail 2
+    2300046: rail 3
+    2300048: rail 4
+    2300050: rail 5
+    2300052: rail 6
+    2300054: rail 7
+    2300056: rail 8
+    2300058: rail 9
+    3300000: bar curved
+    3300002: bar curved 1
+    3300004: bar curved 2
+    3300006: bar curved 3
+    3300008: bracket
+    3300010: bracket 1
+    3300012: bracket 2
+    3300014: bracket 3
+    3300016: crossbar
+    3300018: crossbar 1
+    3300020: crossbar 2
+    3300022: crossbar 3
+    3300024: post
+    3300026: post 1
+    3300028: post 2
+    3300030: post 3
+    3300032: post 4
+    3300034: post 5
+    3300036: rail
+    3300038: rail 1
+    3300040: rail 10
+    3300042: rail 11
+    3300044: rail 2
+    3300046: rail 3
+    3300048: rail 4
+    3300050: rail 5
+    3300052: rail 6
+    3300054: rail 7
+    3300056: rail 8
+    3300058: rail 9
+    4300000: Mesh crossbar
+    4300002: Mesh bar curved
+    4300004: Mesh rail
+    4300006: Mesh post
+    4300008: Mesh bracket
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

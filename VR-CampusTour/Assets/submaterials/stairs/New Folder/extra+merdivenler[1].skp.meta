@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 8bd8a4da9ddbf58448023aa83efe1e62
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 90c19496ab014db3470c8688625cde25
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.9073518, y: 2.460029, z: -4.822387}
+      lookAt: {x: 32.18597, y: -17.58397, z: 40.616405}
+      up: {x: 0.1977279, y: 0.94191116, z: 0.27149034}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -0.9073518, y: 2.460029, z: -4.822387}
+        lookAt: {x: 32.18597, y: -17.58397, z: 40.616405}
+        up: {x: 0.1977279, y: 0.94191116, z: 0.27149034}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+    - camera:
+        position: {x: -1.506937, y: 3.6005197, z: -7.021919}
+        lookAt: {x: 28.052923, y: -13.714433, z: 41.84546}
+        up: {x: 0.15016586, y: 0.9569862, z: 0.2482492}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 2
+    - camera:
+        position: {x: 6.843074, y: 3.9780223, z: -4.7455244}
+        lookAt: {x: 0.89204663, y: -15.229693, z: 51.443996}
+        up: {x: -0.033897426, y: 0.946791, z: 0.3200591}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 3
+    - camera:
+        position: {x: 13.806971, y: 3.9710634, z: -4.0103574}
+        lookAt: {x: 7.8559437, y: -15.236652, z: 52.179165}
+        up: {x: -0.033897426, y: 0.946791, z: 0.3200591}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 4
+    - camera:
+        position: {x: 17.542065, y: 3.0672822, z: -0.40974882}
+        lookAt: {x: 31.773647, y: -14.359058, z: 54.86591}
+        up: {x: 0.07280558, y: 0.95641834, z: 0.28277788}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 5
+    - camera:
+        position: {x: 31.115452, y: 3.5463374, z: 5.233358}
+        lookAt: {x: -7.9666166, y: -16.296434, z: 45.736073}
+        up: {x: -0.23087254, y: 0.9431067, z: 0.23926482}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 6
+    - camera:
+        position: {x: 29.612133, y: 3.0573754, z: 5.646579}
+        lookAt: {x: 30.851128, y: -12.700927, z: 63.194424}
+        up: {x: 0.0056836293, y: 0.964509, z: 0.26398873}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 7
+    - camera:
+        position: {x: 44.782993, y: 5.6767063, z: 16.549894}
+        lookAt: {x: -6.761023, y: -19.776863, z: 32.57936}
+        up: {x: -0.4072667, y: 0.9044847, z: 0.12665425}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 8
+    - camera:
+        position: {x: 40.359364, y: 3.7789772, z: 15.876383}
+        lookAt: {x: 27.797253, y: -19.400229, z: 69.41638}
+        up: {x: -0.088720225, y: 0.92149246, z: 0.37812757}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 9
+    - camera:
+        position: {x: 51.878624, y: 4.2089725, z: 29.544525}
+        lookAt: {x: -3.4257467, y: -18.012806, z: 26.506012}
+        up: {x: -0.3717928, y: 0.92809105, z: -0.020426914}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 10
+    - camera:
+        position: {x: 52.3493, y: 4.4955134, z: 28.981567}
+        lookAt: {x: 16.14207, y: -20.923773, z: 69.0379}
+        up: {x: -0.28561485, y: 0.90475535, z: 0.31597784}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 11
+    - camera:
+        position: {x: 56.18018, y: 3.387723, z: 43.061535}
+        lookAt: {x: 2.6552055, y: -17.0823, z: 26.398138}
+        up: {x: -0.32749707, y: 0.93933517, z: -0.10195641}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 12
+    - camera:
+        position: {x: 57.513256, y: 4.439901, z: 41.995766}
+        lookAt: {x: 15.747088, y: -16.966818, z: 78.85974}
+        up: {x: -0.26892728, y: 0.9334544, z: 0.23736267}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 13
+    - camera:
+        position: {x: 58.049633, y: 5.148239, z: 51.321262}
+        lookAt: {x: 8.840383, y: -19.347105, z: 28.082474}
+        up: {x: -0.3711456, y: 0.9118832, z: -0.17527136}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 14
+    - camera:
+        position: {x: 72.58074, y: 13.946888, z: 45.356365}
+        lookAt: {x: 29.864834, y: -7.3162036, z: 25.184025}
+        up: {x: -0.3711456, y: 0.9118832, z: -0.17527136}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 15
+    - camera:
+        position: {x: 64.036, y: 22.691204, z: -21.58211}
+        lookAt: {x: 28.234007, y: -5.347952, z: 20.353174}
+        up: {x: -0.29431126, y: 0.8913709, z: 0.34473014}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 16
+    - camera:
+        position: {x: -3.9330475, y: 4.707645, z: -8.327251}
+        lookAt: {x: 24.493385, y: -8.721009, z: 21.060574}
+        up: {x: 0.2169453, y: 0.95006955, z: 0.22428246}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 17
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: componance handrail
+    100002: componance handrail 1
+    100004: componance handrail 10
+    100006: componance handrail 11
+    100008: componance handrail 12
+    100010: componance handrail 13
+    100012: componance handrail 14
+    100014: componance handrail 15
+    100016: componance handrail 16
+    100018: componance handrail 17
+    100020: componance handrail 18
+    100022: componance handrail 19
+    100024: componance handrail 2
+    100026: componance handrail 20
+    100028: componance handrail 21
+    100030: componance handrail 22
+    100032: componance handrail 23
+    100034: componance handrail 3
+    100036: componance handrail 4
+    100038: componance handrail 5
+    100040: componance handrail 6
+    100042: componance handrail 7
+    100044: componance handrail 8
+    100046: componance handrail 9
+    100048: componance post connector
+    100050: componance post connector 1
+    100052: componance post connector 10
+    100054: componance post connector 11
+    100056: componance post connector 12
+    100058: componance post connector 13
+    100060: componance post connector 14
+    100062: componance post connector 15
+    100064: componance post connector 16
+    100066: componance post connector 17
+    100068: componance post connector 18
+    100070: componance post connector 19
+    100072: componance post connector 2
+    100074: componance post connector 20
+    100076: componance post connector 21
+    100078: componance post connector 22
+    100080: componance post connector 23
+    100082: componance post connector 3
+    100084: componance post connector 4
+    100086: componance post connector 5
+    100088: componance post connector 6
+    100090: componance post connector 7
+    100092: componance post connector 8
+    100094: componance post connector 9
+    100096: //RootNode
+    100098: Group 1
+    100100: Group 100
+    100102: Group 102
+    100104: Group 11
+    100106: Group 13
+    100108: Group 15
+    100110: Group 17
+    100112: Group 176
+    100114: Group 19
+    100116: Group 21
+    100118: Group 3
+    100120: Group 5
+    100122: Group 7
+    100124: Group 9
+    100126: Group 95
+    100128: Group 97
+    100130: Group 99
+    100132: "NORMAL STA\u0130R"
+    100134: stairs are not n
+    100136: Steel stanchion
+    100138: Steel stanchion 1
+    100140: Steel stanchion 10
+    100142: Steel stanchion 11
+    100144: Steel stanchion 12
+    100146: Steel stanchion 13
+    100148: Steel stanchion 14
+    100150: Steel stanchion 15
+    100152: Steel stanchion 16
+    100154: Steel stanchion 17
+    100156: Steel stanchion 18
+    100158: Steel stanchion 19
+    100160: Steel stanchion 2
+    100162: Steel stanchion 3
+    100164: Steel stanchion 4
+    100166: Steel stanchion 5
+    100168: Steel stanchion 6
+    100170: Steel stanchion 7
+    100172: Steel stanchion 8
+    100174: Steel stanchion 9
+    100176: Steel stanchion#1
+    100178: Steel stanchion#1 1
+    100180: Steel stanchion#1 2
+    100182: Steel stanchion#1 3
+    400000: componance handrail
+    400002: componance handrail 1
+    400004: componance handrail 10
+    400006: componance handrail 11
+    400008: componance handrail 12
+    400010: componance handrail 13
+    400012: componance handrail 14
+    400014: componance handrail 15
+    400016: componance handrail 16
+    400018: componance handrail 17
+    400020: componance handrail 18
+    400022: componance handrail 19
+    400024: componance handrail 2
+    400026: componance handrail 20
+    400028: componance handrail 21
+    400030: componance handrail 22
+    400032: componance handrail 23
+    400034: componance handrail 3
+    400036: componance handrail 4
+    400038: componance handrail 5
+    400040: componance handrail 6
+    400042: componance handrail 7
+    400044: componance handrail 8
+    400046: componance handrail 9
+    400048: componance post connector
+    400050: componance post connector 1
+    400052: componance post connector 10
+    400054: componance post connector 11
+    400056: componance post connector 12
+    400058: componance post connector 13
+    400060: componance post connector 14
+    400062: componance post connector 15
+    400064: componance post connector 16
+    400066: componance post connector 17
+    400068: componance post connector 18
+    400070: componance post connector 19
+    400072: componance post connector 2
+    400074: componance post connector 20
+    400076: componance post connector 21
+    400078: componance post connector 22
+    400080: componance post connector 23
+    400082: componance post connector 3
+    400084: componance post connector 4
+    400086: componance post connector 5
+    400088: componance post connector 6
+    400090: componance post connector 7
+    400092: componance post connector 8
+    400094: componance post connector 9
+    400096: //RootNode
+    400098: Group 1
+    400100: Group 100
+    400102: Group 102
+    400104: Group 11
+    400106: Group 13
+    400108: Group 15
+    400110: Group 17
+    400112: Group 176
+    400114: Group 19
+    400116: Group 21
+    400118: Group 3
+    400120: Group 5
+    400122: Group 7
+    400124: Group 9
+    400126: Group 95
+    400128: Group 97
+    400130: Group 99
+    400132: "NORMAL STA\u0130R"
+    400134: stairs are not n
+    400136: Steel stanchion
+    400138: Steel stanchion 1
+    400140: Steel stanchion 10
+    400142: Steel stanchion 11
+    400144: Steel stanchion 12
+    400146: Steel stanchion 13
+    400148: Steel stanchion 14
+    400150: Steel stanchion 15
+    400152: Steel stanchion 16
+    400154: Steel stanchion 17
+    400156: Steel stanchion 18
+    400158: Steel stanchion 19
+    400160: Steel stanchion 2
+    400162: Steel stanchion 3
+    400164: Steel stanchion 4
+    400166: Steel stanchion 5
+    400168: Steel stanchion 6
+    400170: Steel stanchion 7
+    400172: Steel stanchion 8
+    400174: Steel stanchion 9
+    400176: Steel stanchion#1
+    400178: Steel stanchion#1 1
+    400180: Steel stanchion#1 2
+    400182: Steel stanchion#1 3
+    2100000: _defaultMat
+    2100002: '[Color_002]'
+    2100004: '[Stone_Sandstone_Ashlar_Light]'
+    2100006: '[Wood_Cherry_Original]'
+    2100008: '[Metal_Aluminum_Anodized]1'
+    2100010: '[Metal_Aluminum_Anodized]'
+    2300000: componance handrail
+    2300002: componance handrail 1
+    2300004: componance handrail 10
+    2300006: componance handrail 11
+    2300008: componance handrail 12
+    2300010: componance handrail 13
+    2300012: componance handrail 14
+    2300014: componance handrail 15
+    2300016: componance handrail 16
+    2300018: componance handrail 17
+    2300020: componance handrail 18
+    2300022: componance handrail 19
+    2300024: componance handrail 2
+    2300026: componance handrail 20
+    2300028: componance handrail 21
+    2300030: componance handrail 22
+    2300032: componance handrail 23
+    2300034: componance handrail 3
+    2300036: componance handrail 4
+    2300038: componance handrail 5
+    2300040: componance handrail 6
+    2300042: componance handrail 7
+    2300044: componance handrail 8
+    2300046: componance handrail 9
+    2300048: componance post connector
+    2300050: componance post connector 1
+    2300052: componance post connector 10
+    2300054: componance post connector 11
+    2300056: componance post connector 12
+    2300058: componance post connector 13
+    2300060: componance post connector 14
+    2300062: componance post connector 15
+    2300064: componance post connector 16
+    2300066: componance post connector 17
+    2300068: componance post connector 18
+    2300070: componance post connector 19
+    2300072: componance post connector 2
+    2300074: componance post connector 20
+    2300076: componance post connector 21
+    2300078: componance post connector 22
+    2300080: componance post connector 23
+    2300082: componance post connector 3
+    2300084: componance post connector 4
+    2300086: componance post connector 5
+    2300088: componance post connector 6
+    2300090: componance post connector 7
+    2300092: componance post connector 8
+    2300094: componance post connector 9
+    2300096: Group 1
+    2300098: Group 100
+    2300100: Group 102
+    2300102: Group 11
+    2300104: Group 13
+    2300106: Group 15
+    2300108: Group 17
+    2300110: Group 176
+    2300112: Group 19
+    2300114: Group 21
+    2300116: Group 3
+    2300118: Group 5
+    2300120: Group 7
+    2300122: Group 9
+    2300124: Group 95
+    2300126: Group 97
+    2300128: "NORMAL STA\u0130R"
+    2300130: stairs are not n
+    2300132: Steel stanchion
+    2300134: Steel stanchion 1
+    2300136: Steel stanchion 10
+    2300138: Steel stanchion 11
+    2300140: Steel stanchion 12
+    2300142: Steel stanchion 13
+    2300144: Steel stanchion 14
+    2300146: Steel stanchion 15
+    2300148: Steel stanchion 16
+    2300150: Steel stanchion 17
+    2300152: Steel stanchion 18
+    2300154: Steel stanchion 19
+    2300156: Steel stanchion 2
+    2300158: Steel stanchion 3
+    2300160: Steel stanchion 4
+    2300162: Steel stanchion 5
+    2300164: Steel stanchion 6
+    2300166: Steel stanchion 7
+    2300168: Steel stanchion 8
+    2300170: Steel stanchion 9
+    2300172: Steel stanchion#1
+    2300174: Steel stanchion#1 1
+    2300176: Steel stanchion#1 2
+    2300178: Steel stanchion#1 3
+    3300000: componance handrail
+    3300002: componance handrail 1
+    3300004: componance handrail 10
+    3300006: componance handrail 11
+    3300008: componance handrail 12
+    3300010: componance handrail 13
+    3300012: componance handrail 14
+    3300014: componance handrail 15
+    3300016: componance handrail 16
+    3300018: componance handrail 17
+    3300020: componance handrail 18
+    3300022: componance handrail 19
+    3300024: componance handrail 2
+    3300026: componance handrail 20
+    3300028: componance handrail 21
+    3300030: componance handrail 22
+    3300032: componance handrail 23
+    3300034: componance handrail 3
+    3300036: componance handrail 4
+    3300038: componance handrail 5
+    3300040: componance handrail 6
+    3300042: componance handrail 7
+    3300044: componance handrail 8
+    3300046: componance handrail 9
+    3300048: componance post connector
+    3300050: componance post connector 1
+    3300052: componance post connector 10
+    3300054: componance post connector 11
+    3300056: componance post connector 12
+    3300058: componance post connector 13
+    3300060: componance post connector 14
+    3300062: componance post connector 15
+    3300064: componance post connector 16
+    3300066: componance post connector 17
+    3300068: componance post connector 18
+    3300070: componance post connector 19
+    3300072: componance post connector 2
+    3300074: componance post connector 20
+    3300076: componance post connector 21
+    3300078: componance post connector 22
+    3300080: componance post connector 23
+    3300082: componance post connector 3
+    3300084: componance post connector 4
+    3300086: componance post connector 5
+    3300088: componance post connector 6
+    3300090: componance post connector 7
+    3300092: componance post connector 8
+    3300094: componance post connector 9
+    3300096: Group 1
+    3300098: Group 100
+    3300100: Group 102
+    3300102: Group 11
+    3300104: Group 13
+    3300106: Group 15
+    3300108: Group 17
+    3300110: Group 176
+    3300112: Group 19
+    3300114: Group 21
+    3300116: Group 3
+    3300118: Group 5
+    3300120: Group 7
+    3300122: Group 9
+    3300124: Group 95
+    3300126: Group 97
+    3300128: "NORMAL STA\u0130R"
+    3300130: stairs are not n
+    3300132: Steel stanchion
+    3300134: Steel stanchion 1
+    3300136: Steel stanchion 10
+    3300138: Steel stanchion 11
+    3300140: Steel stanchion 12
+    3300142: Steel stanchion 13
+    3300144: Steel stanchion 14
+    3300146: Steel stanchion 15
+    3300148: Steel stanchion 16
+    3300150: Steel stanchion 17
+    3300152: Steel stanchion 18
+    3300154: Steel stanchion 19
+    3300156: Steel stanchion 2
+    3300158: Steel stanchion 3
+    3300160: Steel stanchion 4
+    3300162: Steel stanchion 5
+    3300164: Steel stanchion 6
+    3300166: Steel stanchion 7
+    3300168: Steel stanchion 8
+    3300170: Steel stanchion 9
+    3300172: Steel stanchion#1
+    3300174: Steel stanchion#1 1
+    3300176: Steel stanchion#1 2
+    3300178: Steel stanchion#1 3
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Group 5
+    4300006: Mesh Group 7
+    4300008: Mesh Group 9
+    4300010: Mesh Group 11
+    4300012: Mesh Group 13
+    4300014: Mesh Group 15
+    4300016: Mesh Group 17
+    4300018: Mesh Group 19
+    4300020: Mesh Group 21
+    4300022: Mesh Steel stanchion#1
+    4300024: Mesh componance post connector
+    4300026: Mesh componance handrail
+    4300028: Mesh Steel stanchion
+    4300030: Mesh Group 95
+    4300032: Mesh Group 97
+    4300034: Mesh Group 100
+    4300036: Mesh Group 102
+    4300038: Mesh Group 176
+    4300040: Mesh stairs are not n
+    4300042: "Mesh NORMAL STA\u0130R"
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Aluminum_Anodized
+    second: {fileID: 2800000, guid: 4de44dadd3a68384a853a7ab4022e35a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Aluminum_Anodized_tint0xA6ACB5FF
+    second: {fileID: 2800000, guid: a3fa20032954e164698e98cee6d91e5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stone_Sandstone_Ashlar_Light
+    second: {fileID: 2800000, guid: 059518e28882ecc43b032382028d2fd4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Cherry_Original
+    second: {fileID: 2800000, guid: 8ad360cc0cc53614aa264e39e53f46dc, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

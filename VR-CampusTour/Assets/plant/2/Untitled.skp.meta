@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 70ba5e5d3056fd94181c715c7398744d
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000140000001500000016000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 48a13dc29ccab8a7a8591cf43ffabaa2
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 10.551095, y: 4.6161327, z: 1.6681379}
+      lookAt: {x: -11.510326, y: -5.9196415, z: 3.782845}
+      up: {x: -0.42738268, y: 0.9031422, z: 0.040966954}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bush
+    100002: bush 1
+    100004: Group 10
+    100006: Group 12
+    100008: Group 15
+    100010: Group 17
+    100012: Group 19
+    100014: Group 21
+    100016: Group 6
+    100018: Group 8
+    100020: Planter
+    100022: Sang
+    100024: //RootNode
+    400000: bush
+    400002: bush 1
+    400004: Group 10
+    400006: Group 12
+    400008: Group 15
+    400010: Group 17
+    400012: Group 19
+    400014: Group 21
+    400016: Group 6
+    400018: Group 8
+    400020: Planter
+    400022: Sang
+    400024: //RootNode
+    2100000: _defaultMat
+    2100002: jean blue
+    2100004: White
+    2100006: _LightGray_
+    2100008: _Beige_2
+    2100010: _1
+    2100012: _Burnt Umber_1
+    2100014: _DimGray_
+    2100016: _Charcoal_
+    2100018: '[Wood_Lumber_ButtJoined]'
+    2100020: '[Groundcover_Brick_Crushed]'
+    2100022: Vegetation_Juniper2
+    2300000: Group 10
+    2300002: Group 12
+    2300004: Group 15
+    2300006: Group 17
+    2300008: Group 19
+    2300010: Group 21
+    2300012: Group 6
+    2300014: Group 8
+    2300016: Planter
+    2300018: Sang
+    3300000: Group 10
+    3300002: Group 12
+    3300004: Group 15
+    3300006: Group 17
+    3300008: Group 19
+    3300010: Group 21
+    3300012: Group 6
+    3300014: Group 8
+    3300016: Planter
+    3300018: Sang
+    4300000: Mesh Sang
+    4300002: Mesh Planter
+    4300004: Mesh Group 6
+    4300006: Mesh Group 15
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Groundcover_Brick_Crushed
+    second: {fileID: 2800000, guid: b85a1b2a79118954c84a5b5b7d3fcfdf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vegetation_Juniper2
+    second: {fileID: 2800000, guid: 3117f9534dd00144c871087d5d01e9cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Lumber_ButtJoined
+    second: {fileID: 2800000, guid: f86265f892c628649b0a40f3a0c92ba7, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

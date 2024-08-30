@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 362d8da125901fa4aa2c30abb7142080
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 9e4f75f74c9304258e71f19b7e7f4ca0
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.8068576, y: 0.8692572, z: -0.6798912}
+      lookAt: {x: 0.07238608, y: 0.06502169, z: 0.57687074}
+      up: {x: -0.24400628, y: 0.87529224, z: 0.41752174}
+      fov: 40
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0.7951017, y: 0.843635, z: -0.70311904}
+        lookAt: {x: 0.039545156, y: 0.06734129, z: 0.55870354}
+        up: {x: -0.23980404, y: 0.8843668, z: 0.40048647}
+        fov: 40
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: 3D
+    - camera:
+        position: {x: 0.27522185, y: 0.69036007, z: -1.543188}
+        lookAt: {x: 0.27522185, y: 0.69036007, z: -0.0011459964}
+        up: {x: 0, y: 1, z: 0}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 31.621815
+        isPerspective: 0
+      name: Side
+    - camera:
+        position: {x: 2.6092365, y: 0.5302828, z: 0.81103456}
+        lookAt: {x: 0.24943714, y: 0.5302828, z: 0.81103456}
+        up: {x: 0, y: 1, z: 0}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 31.621815
+        isPerspective: 0
+      name: Front
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component#1
+    100004: Component#1 1
+    100006: Component#1 2
+    100008: Component#1 3
+    100010: Desk
+    100012: Desk 1
+    100014: Desk 2
+    100016: Desk 3
+    100018: Desk 4
+    100020: Desk 5
+    100022: Group 10
+    100024: Group 12
+    100026: Group 14
+    100028: Group 17
+    100030: Group 19
+    100032: Group 21
+    100034: Group 23
+    100036: Group 25
+    100038: Group 29
+    100040: Group 31
+    100042: Group 33
+    100044: Group 35
+    100046: Group 37
+    100048: Group 40
+    100050: Group 42
+    100052: Group 44
+    100054: Group 46
+    100056: Group 48
+    100058: Group 6
+    100060: Group 8
+    100062: Group#7
+    100064: Group#7 1
+    100066: Image 1
+    400000: //RootNode
+    400002: Component#1
+    400004: Component#1 1
+    400006: Component#1 2
+    400008: Component#1 3
+    400010: Desk
+    400012: Desk 1
+    400014: Desk 2
+    400016: Desk 3
+    400018: Desk 4
+    400020: Desk 5
+    400022: Group 10
+    400024: Group 12
+    400026: Group 14
+    400028: Group 17
+    400030: Group 19
+    400032: Group 21
+    400034: Group 23
+    400036: Group 25
+    400038: Group 29
+    400040: Group 31
+    400042: Group 33
+    400044: Group 35
+    400046: Group 37
+    400048: Group 40
+    400050: Group 42
+    400052: Group 44
+    400054: Group 46
+    400056: Group 48
+    400058: Group 6
+    400060: Group 8
+    400062: Group#7
+    400064: Group#7 1
+    400066: Image 1
+    2100000: Material 1
+    2100002: '[Color_001]'
+    2100004: '[Wood_Cherry_Original]1'
+    2100006: '[Color_D01]'
+    2100008: '[Color_008]'
+    2300000: Desk
+    2300002: Desk 1
+    2300004: Desk 2
+    2300006: Desk 3
+    2300008: Desk 4
+    2300010: Desk 5
+    2300012: Group 10
+    2300014: Group 12
+    2300016: Group 14
+    2300018: Group 17
+    2300020: Group 19
+    2300022: Group 21
+    2300024: Group 23
+    2300026: Group 25
+    2300028: Group 29
+    2300030: Group 31
+    2300032: Group 33
+    2300034: Group 35
+    2300036: Group 37
+    2300038: Group 40
+    2300040: Group 42
+    2300042: Group 44
+    2300044: Group 46
+    2300046: Group 48
+    2300048: Group 6
+    2300050: Group 8
+    2300052: Image 1
+    3300000: Desk
+    3300002: Desk 1
+    3300004: Desk 2
+    3300006: Desk 3
+    3300008: Desk 4
+    3300010: Desk 5
+    3300012: Group 10
+    3300014: Group 12
+    3300016: Group 14
+    3300018: Group 17
+    3300020: Group 19
+    3300022: Group 21
+    3300024: Group 23
+    3300026: Group 25
+    3300028: Group 29
+    3300030: Group 31
+    3300032: Group 33
+    3300034: Group 35
+    3300036: Group 37
+    3300038: Group 40
+    3300040: Group 42
+    3300042: Group 44
+    3300044: Group 46
+    3300046: Group 48
+    3300048: Group 6
+    3300050: Group 8
+    3300052: Image 1
+    4300000: Mesh ________+___________
+    4300002: Mesh Desk
+    4300004: Mesh Group 6
+    4300006: Mesh Group 8
+    4300008: Mesh Group 10
+    4300010: Mesh Group 12
+    4300012: Mesh Group 14
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: '[Wood_Cherry_Original]1_extractedTex5678'
+    second: {fileID: 2800000, guid: f11bc5cb13565fb479885612c9c059a0, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

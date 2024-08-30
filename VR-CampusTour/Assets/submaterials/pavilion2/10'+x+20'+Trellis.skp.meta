@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: cb05237588acaa54e833c65d5141bae1
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a000000
+  assetHash:
+    serializedVersion: 2
+    Hash: c48bb853d7d763adc99d668b709f22bc
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 7.17774, y: 0.53424335, z: -7.8505616}
+      lookAt: {x: 1.8003762, y: 1.8815962, z: -2.0675087}
+      up: {x: 0.11452896, y: 0.9857547, z: -0.12316947}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -6.205234, y: 1.2851366, z: -5.787505}
+        lookAt: {x: -0.8492501, y: 1.2851366, z: -1.4739896}
+        up: {x: 2.1786018e-18, y: 1, z: -2.7051153e-18}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Column
+    100004: Column 1
+    100006: Column 2
+    100008: Column 3
+    100010: Group 1
+    100012: Group 11
+    100014: Group 3
+    100016: Group 5
+    100018: Group 7
+    100020: Group 9
+    100022: Header
+    100024: Header 1
+    100026: Header 2
+    100028: Header 3
+    100030: Lattice
+    100032: Lattice 1
+    100034: Lattice 2
+    100036: Lattice 3
+    100038: Lattice 4
+    100040: Lattice 5
+    100042: Lattice 6
+    400000: //RootNode
+    400002: Column
+    400004: Column 1
+    400006: Column 2
+    400008: Column 3
+    400010: Group 1
+    400012: Group 11
+    400014: Group 3
+    400016: Group 5
+    400018: Group 7
+    400020: Group 9
+    400022: Header
+    400024: Header 1
+    400026: Header 2
+    400028: Header 3
+    400030: Lattice
+    400032: Lattice 1
+    400034: Lattice 2
+    400036: Lattice 3
+    400038: Lattice 4
+    400040: Lattice 5
+    400042: Lattice 6
+    2100000: '[Translucent_Glass_Safety]'
+    2100002: '[Color_007]'
+    2300000: Column
+    2300002: Column 1
+    2300004: Column 2
+    2300006: Column 3
+    2300008: Group 1
+    2300010: Group 11
+    2300012: Group 3
+    2300014: Group 5
+    2300016: Group 7
+    2300018: Group 9
+    2300020: Header
+    2300022: Header 1
+    2300024: Header 2
+    2300026: Header 3
+    2300028: Lattice
+    2300030: Lattice 1
+    2300032: Lattice 2
+    2300034: Lattice 3
+    2300036: Lattice 4
+    2300038: Lattice 5
+    2300040: Lattice 6
+    3300000: Column
+    3300002: Column 1
+    3300004: Column 2
+    3300006: Column 3
+    3300008: Group 1
+    3300010: Group 11
+    3300012: Group 3
+    3300014: Group 5
+    3300016: Group 7
+    3300018: Group 9
+    3300020: Header
+    3300022: Header 1
+    3300024: Header 2
+    3300026: Header 3
+    3300028: Lattice
+    3300030: Lattice 1
+    3300032: Lattice 2
+    3300034: Lattice 3
+    3300036: Lattice 4
+    3300038: Lattice 5
+    3300040: Lattice 6
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Column
+    4300006: Mesh Header
+    4300008: Mesh Lattice
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_007]'
+    second: {fileID: 2100014, guid: 8907d4f8d303b4b4793af72e14d9ef1c, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Safety]'
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Saftey_tint0xFFFFFFB3
+    second: {fileID: 2800000, guid: 891f6c695fabf4a4cbd6fa33cccc8128, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

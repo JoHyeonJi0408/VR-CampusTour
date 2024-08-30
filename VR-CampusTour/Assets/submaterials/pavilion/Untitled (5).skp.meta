@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 157e2630e3dcff9458b1f2beff9c5dd3
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f00000080000000810000008200000083000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 761a71f66d6c3ba3f50c661e6b08df3a
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 15.356849, y: 3.7815409, z: 8.3560915}
+      lookAt: {x: 2.2822359, y: 2.1189086, z: 3.9204588}
+      up: {x: -0.11322162, y: 0.99282706, z: -0.038411044}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ANCHOR PLATES
+    100002: ANCHOR PLATES 1
+    100004: ANCHOR PLATES 2
+    100006: ANCHOR PLATES 3
+    100008: ANCHOR PLATES 4
+    100010: ANCHOR PLATES 5
+    100012: ANCHOR PLATES 6
+    100014: Ash Tray Trash Can
+    100016: Ceiling Light Indirect Fluorescent 2' (24 in) by 2' (24 in)
+    100018: Component#1
+    100020: Flourescent Tubes
+    100022: Flourescent Tubes 1
+    100024: Group 1
+    100026: Group 100
+    100028: Group 102
+    100030: Group 105
+    100032: Group 107
+    100034: Group 112
+    100036: Group 115
+    100038: Group 126
+    100040: Group 128
+    100042: Group 130
+    100044: Group 19
+    100046: Group 2
+    100048: Group 21
+    100050: Group 23
+    100052: Group 25
+    100054: Group 27
+    100056: Group 30
+    100058: Group 32
+    100060: Group 35
+    100062: Group 37
+    100064: Group 4
+    100066: Group 40
+    100068: Group 42
+    100070: Group 45
+    100072: Group 47
+    100074: Group 50
+    100076: Group 52
+    100078: Group 55
+    100080: Group 57
+    100082: Group 60
+    100084: Group 62
+    100086: Group 65
+    100088: Group 67
+    100090: Group 70
+    100092: Group 72
+    100094: Group 75
+    100096: Group 77
+    100098: Group 80
+    100100: Group 82
+    100102: Group 85
+    100104: Group 87
+    100106: Group 90
+    100108: Group 92
+    100110: Group 95
+    100112: Group 97
+    100114: Light Shield
+    100116: Outside_Edge
+    100118: Parabolic Shield
+    100120: Recessed_Lighting_2x4
+    100122: //RootNode
+    100124: WINDOW LG.
+    100126: WINDOW MED.
+    100128: WINDOW MED. 1
+    100130: WINDOW MED. 2
+    100132: WINDOW MED. 3
+    100134: WINDOW MED. 4
+    100136: WINDOW MED. 5
+    100138: WINDOW MED. 6
+    100140: WINDOW MED. 7
+    100142: WINDOW MED. 8
+    100144: WINDOW MED. 9
+    100146: WINDOW SM.
+    100148: WINDOW SM. 1
+    100150: WINDOW SM. 2
+    100152: WINDOW SM. 3
+    100154: WINDOW SM. 4
+    100156: WINDOW SM. 5
+    400000: ANCHOR PLATES
+    400002: ANCHOR PLATES 1
+    400004: ANCHOR PLATES 2
+    400006: ANCHOR PLATES 3
+    400008: ANCHOR PLATES 4
+    400010: ANCHOR PLATES 5
+    400012: ANCHOR PLATES 6
+    400014: Ash Tray Trash Can
+    400016: Ceiling Light Indirect Fluorescent 2' (24 in) by 2' (24 in)
+    400018: Component#1
+    400020: Flourescent Tubes
+    400022: Flourescent Tubes 1
+    400024: Group 1
+    400026: Group 100
+    400028: Group 102
+    400030: Group 105
+    400032: Group 107
+    400034: Group 112
+    400036: Group 115
+    400038: Group 126
+    400040: Group 128
+    400042: Group 130
+    400044: Group 19
+    400046: Group 2
+    400048: Group 21
+    400050: Group 23
+    400052: Group 25
+    400054: Group 27
+    400056: Group 30
+    400058: Group 32
+    400060: Group 35
+    400062: Group 37
+    400064: Group 4
+    400066: Group 40
+    400068: Group 42
+    400070: Group 45
+    400072: Group 47
+    400074: Group 50
+    400076: Group 52
+    400078: Group 55
+    400080: Group 57
+    400082: Group 60
+    400084: Group 62
+    400086: Group 65
+    400088: Group 67
+    400090: Group 70
+    400092: Group 72
+    400094: Group 75
+    400096: Group 77
+    400098: Group 80
+    400100: Group 82
+    400102: Group 85
+    400104: Group 87
+    400106: Group 90
+    400108: Group 92
+    400110: Group 95
+    400112: Group 97
+    400114: Light Shield
+    400116: Outside_Edge
+    400118: Parabolic Shield
+    400120: Recessed_Lighting_2x4
+    400122: //RootNode
+    400124: WINDOW LG.
+    400126: WINDOW MED.
+    400128: WINDOW MED. 1
+    400130: WINDOW MED. 2
+    400132: WINDOW MED. 3
+    400134: WINDOW MED. 4
+    400136: WINDOW MED. 5
+    400138: WINDOW MED. 6
+    400140: WINDOW MED. 7
+    400142: WINDOW MED. 8
+    400144: WINDOW MED. 9
+    400146: WINDOW SM.
+    400148: WINDOW SM. 1
+    400150: WINDOW SM. 2
+    400152: WINDOW SM. 3
+    400154: WINDOW SM. 4
+    400156: WINDOW SM. 5
+    2100000: _1
+    2100002: '[Metal_Aluminum_Anodized]'
+    2100004: '[Translucent_Glass_Blue]'
+    2100006: '[0117_GhostWhite]'
+    2100008: Chrome Reflecter
+    2100010: Translucent_Glass_Frosted
+    2100012: '[Translucent_Glass_Gray]'
+    2100014: '[Color_003]2'
+    2100016: '[Color_007]'
+    2300000: ANCHOR PLATES
+    2300002: ANCHOR PLATES 1
+    2300004: ANCHOR PLATES 2
+    2300006: ANCHOR PLATES 3
+    2300008: ANCHOR PLATES 4
+    2300010: ANCHOR PLATES 5
+    2300012: ANCHOR PLATES 6
+    2300014: Flourescent Tubes
+    2300016: Flourescent Tubes 1
+    2300018: Group 100
+    2300020: Group 102
+    2300022: Group 105
+    2300024: Group 107
+    2300026: Group 112
+    2300028: Group 115
+    2300030: Group 126
+    2300032: Group 128
+    2300034: Group 130
+    2300036: Group 19
+    2300038: Group 2
+    2300040: Group 21
+    2300042: Group 25
+    2300044: Group 27
+    2300046: Group 30
+    2300048: Group 32
+    2300050: Group 35
+    2300052: Group 37
+    2300054: Group 40
+    2300056: Group 42
+    2300058: Group 45
+    2300060: Group 47
+    2300062: Group 50
+    2300064: Group 52
+    2300066: Group 55
+    2300068: Group 57
+    2300070: Group 60
+    2300072: Group 62
+    2300074: Group 65
+    2300076: Group 67
+    2300078: Group 70
+    2300080: Group 72
+    2300082: Group 75
+    2300084: Group 77
+    2300086: Group 80
+    2300088: Group 82
+    2300090: Group 85
+    2300092: Group 87
+    2300094: Group 90
+    2300096: Group 92
+    2300098: Group 95
+    2300100: Group 97
+    2300102: Light Shield
+    2300104: Parabolic Shield
+    3300000: ANCHOR PLATES
+    3300002: ANCHOR PLATES 1
+    3300004: ANCHOR PLATES 2
+    3300006: ANCHOR PLATES 3
+    3300008: ANCHOR PLATES 4
+    3300010: ANCHOR PLATES 5
+    3300012: ANCHOR PLATES 6
+    3300014: Flourescent Tubes
+    3300016: Flourescent Tubes 1
+    3300018: Group 100
+    3300020: Group 102
+    3300022: Group 105
+    3300024: Group 107
+    3300026: Group 112
+    3300028: Group 115
+    3300030: Group 126
+    3300032: Group 128
+    3300034: Group 130
+    3300036: Group 19
+    3300038: Group 2
+    3300040: Group 21
+    3300042: Group 25
+    3300044: Group 27
+    3300046: Group 30
+    3300048: Group 32
+    3300050: Group 35
+    3300052: Group 37
+    3300054: Group 40
+    3300056: Group 42
+    3300058: Group 45
+    3300060: Group 47
+    3300062: Group 50
+    3300064: Group 52
+    3300066: Group 55
+    3300068: Group 57
+    3300070: Group 60
+    3300072: Group 62
+    3300074: Group 65
+    3300076: Group 67
+    3300078: Group 70
+    3300080: Group 72
+    3300082: Group 75
+    3300084: Group 77
+    3300086: Group 80
+    3300088: Group 82
+    3300090: Group 85
+    3300092: Group 87
+    3300094: Group 90
+    3300096: Group 92
+    3300098: Group 95
+    3300100: Group 97
+    3300102: Light Shield
+    3300104: Parabolic Shield
+    4300000: Mesh Group 2
+    4300002: Mesh ANCHOR PLATES
+    4300004: Mesh ANCHOR PLATES
+    4300006: Mesh Group 19
+    4300008: Mesh Group 21
+    4300010: Mesh Group 25
+    4300012: Mesh Group 27
+    4300014: Mesh Group 32
+    4300016: Mesh Group 47
+    4300018: Mesh Group 112
+    4300020: Mesh Group 115
+    4300022: Mesh Parabolic Shield
+    4300024: Mesh Light Shield
+    4300026: Mesh Flourescent Tubes
+    4300028: Mesh Group 126
+    4300030: Mesh Group 128
+    4300032: Mesh Group 130
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Aluminum_Anodized_tint0x989EA5FF
+    second: {fileID: 2800000, guid: 48563cbf3aa37414f9159a3440ccfc60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aluminum.anodized.clear.900
+    second: {fileID: 2800000, guid: 00bb5659e2771e34985cd8ab37d4e881, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

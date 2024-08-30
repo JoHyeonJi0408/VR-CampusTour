@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: d3f40cffdd20cbb42bbfeb459ad42ca7
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: fb9c33349b7fa98c24d948ab0e95eda6
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -20.053596, y: 49.40923, z: 146.59966}
+      lookAt: {x: -12.710238, y: 37.230885, z: 70.938156}
+      up: {x: 0.015281231, y: 0.98740894, z: -0.1574485}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Group 1
+    100002: Group 8
+    100004: Image 10
+    100006: Image 11
+    100008: Image 12
+    100010: Image 3
+    100012: Image 4
+    100014: Image 5
+    100016: Image 6
+    100018: Image 7
+    100020: //RootNode
+    400000: Group 1
+    400002: Group 8
+    400004: Image 10
+    400006: Image 11
+    400008: Image 12
+    400010: Image 3
+    400012: Image 4
+    400014: Image 5
+    400016: Image 6
+    400018: Image 7
+    400020: //RootNode
+    2100000: _defaultMat
+    2100002: '[Stone Sandstone Ashlar Light]'
+    2100004: "\u1109\u1161\u11BC\u1107\u1175\u11AF\u110E\u1161\u11BC\u1106\u116E\u11AB2"
+    2100006: Material 3
+    2100008: Material 4
+    2100010: Material 5
+    2100012: Material 6
+    2100014: Material 7
+    2100016: "\u1109\u1161\u11BC\u1107\u1175\u11AF\u1107\u1167\u11A8\u1106\u1167\u11AB"
+    2100018: '[Blacktop Old 01]'
+    2100020: '[Concrete Form 4x8]'
+    2100022: Marc_Shoes4
+    2100024: Material 12
+    2100026: Material 13
+    2100028: Material 14
+    2300000: Group 1
+    2300002: Group 8
+    2300004: Image 10
+    2300006: Image 11
+    2300008: Image 12
+    2300010: Image 3
+    2300012: Image 4
+    2300014: Image 5
+    2300016: Image 6
+    2300018: Image 7
+    3300000: Group 1
+    3300002: Group 8
+    3300004: Image 10
+    3300006: Image 11
+    3300008: Image 12
+    3300010: Image 3
+    3300012: Image 4
+    3300014: Image 5
+    3300016: Image 6
+    3300018: Image 7
+    4300000: Mesh Group 1
+    4300002: Mesh Group 1
+    4300004: Mesh Group 1
+    4300006: Mesh Group 1
+    4300008: Mesh Group 1
+    4300010: Mesh Group 1
+    4300012: Mesh Group 8
+    4300014: Mesh Group 8
+    4300016: Mesh Group 8
+    4300018: Mesh Group 8
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Blacktop Old 01
+    second: {fileID: 2800000, guid: 9caa0c41efbe68042b20bd5d46f5d1ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete_Form_4x8
+    second: {fileID: 2800000, guid: 4a0c4c96ad0dd27419b9d418ac578737, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stone_Sandstone_Ashlar_Light
+    second: {fileID: 2800000, guid: 1992821ab1d543942a9522aa48e29603, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u1109\u1161\u11BC\u1107\u1175\u11AF\u110B\u1167\u11C1\u1106\u1167\u11AB"
+    second: {fileID: 2800000, guid: 4589c5161c2e8f145aa104ca5b57ec7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u1109\u1161\u11BC\u1107\u1175\u11AF\u110B\u1175\u11B8\u1100\u116E"
+    second: {fileID: 2800000, guid: 5978f5ca1db36c3428f4cc388148ae37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u1109\u1161\u11BC\u1107\u1175\u11AF\u110E\u1161\u11BC\u1106\u116E\u11AB"
+    second: {fileID: 2800000, guid: 09d1ab4314ed37a4ba200344205c6273, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u3134\u3147\u3134\u3147\u3134\u3147"
+    second: {fileID: 2800000, guid: 9150c7ddd4012404b9df4a6719d9bfa8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u314B\u314A\u314B\u314A\u314B\u314A\u314B"
+    second: {fileID: 2800000, guid: 5a10dc2cf6ab33f4594b48b867d626c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u3161\u3161\u314F\u3161\u3161"
+    second: {fileID: 2800000, guid: ac9162a88a7b80041ab56c3e646c825d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u1109\u1161\u11BC\u1107\u1175\u11AF\u1107\u1167\u11A8\u1106\u1167\u11AB"
+    second: {fileID: 2800000, guid: 99405105a48634447a5f29e793c7b780, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u1109\u1161\u11BC\u1107\u1175\u11AF\u110E\u1161\u11BC\u1106\u116E\u11AB"
+    second: {fileID: 2800000, guid: 26873147f435e2e479550546c0abf97a, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

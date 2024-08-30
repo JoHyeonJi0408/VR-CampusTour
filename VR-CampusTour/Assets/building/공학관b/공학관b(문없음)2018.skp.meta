@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 82969914980714d49a508a64dc277936
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: d916a93f155d52981d8063f05ab5d14b
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -31.069662, y: 13.435082, z: 94.03031}
+      lookAt: {x: 13.386406, y: 20.608332, z: 8.451898}
+      up: {x: -0.03419524, y: 0.997245, z: 0.065826215}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Image 10
+    100002: Image 11
+    100004: Image 12
+    100006: Image 13
+    100008: Image 2
+    100010: Image 3
+    100012: Image 4
+    100014: Image 5
+    100016: Image 6
+    100018: Image 7
+    100020: Image 8
+    100022: Image 9
+    100024: //RootNode
+    400000: Image 10
+    400002: Image 11
+    400004: Image 12
+    400006: Image 13
+    400008: Image 2
+    400010: Image 3
+    400012: Image 4
+    400014: Image 5
+    400016: Image 6
+    400018: Image 7
+    400020: Image 8
+    400022: Image 9
+    400024: //RootNode
+    2100000: _defaultMat
+    2100002: _5
+    2100004: '[Wax 02]'
+    2100006: windows_well_small
+    2100008: well
+    2100010: "\u1100\u1169\u11BC\u1107\u1175\u1107\u1167\u11A8"
+    2100012: Material 6
+    2100014: Material 7
+    2100016: Material 8
+    2100018: Material 9
+    2100020: Material 10
+    2100022: Material 11
+    2100024: Material 12
+    2100026: Material 13
+    2100028: Material 14
+    2100030: Material 15
+    2100032: Material 16
+    2100034: Material 17
+    2300000: Image 10
+    2300002: Image 11
+    2300004: Image 12
+    2300006: Image 13
+    2300008: Image 2
+    2300010: Image 3
+    2300012: Image 4
+    2300014: Image 5
+    2300016: Image 6
+    2300018: Image 7
+    2300020: Image 8
+    2300022: Image 9
+    2300024: //RootNode
+    3300000: Image 10
+    3300002: Image 11
+    3300004: Image 12
+    3300006: Image 13
+    3300008: Image 2
+    3300010: Image 3
+    3300012: Image 4
+    3300014: Image 5
+    3300016: Image 6
+    3300018: Image 7
+    3300020: Image 8
+    3300022: Image 9
+    3300024: //RootNode
+    4300000: "Mesh \uACF5\uD559\uAD00b(\uBB38\uC5C6\uC74C)2018"
+    4300002: "Mesh \uACF5\uD559\uAD00b(\uBB38\uC5C6\uC74C)2018"
+    4300004: "Mesh \uACF5\uD559\uAD00b(\uBB38\uC5C6\uC74C)2018"
+    4300006: "Mesh \uACF5\uD559\uAD00b(\uBB38\uC5C6\uC74C)2018"
+    4300008: "Mesh \uACF5\uD559\uAD00b(\uBB38\uC5C6\uC74C)2018"
+    4300010: "Mesh \uACF5\uD559\uAD00b(\uBB38\uC5C6\uC74C)2018"
+    4300012: "Mesh \uACF5\uD559\uAD00b(\uBB38\uC5C6\uC74C)2018"
+    4300014: "Mesh \uACF5\uD559\uAD00b(\uBB38\uC5C6\uC74C)2018"
+    4300016: "Mesh \uACF5\uD559\uAD00b(\uBB38\uC5C6\uC74C)2018"
+    4300018: "Mesh \uACF5\uD559\uAD00b(\uBB38\uC5C6\uC74C)2018"
+    4300020: "Mesh \uACF5\uD559\uAD00b(\uBB38\uC5C6\uC74C)2018"
+    4300022: "Mesh \uACF5\uD559\uAD00b(\uBB38\uC5C6\uC74C)2018"
+    4300024: "Mesh \uACF5\uD559\uAD00b(\uBB38\uC5C6\uC74C)2018"
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wax 02
+    second: {fileID: 2800000, guid: b0c1c5acd283e7449a0bc727a6af6482, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Desktop_\u110C\u1169\u11AF\u110C\u1161\u11A8\u1109\u1161\u110C\u1175\u11AB_\u1100\u1169\u11BC\u1112\u1161\u11A8\u1100\u116A\u11AB_\u1100\u1169\u11BC\u1107\u1175"
+    second: {fileID: 2800000, guid: 0da8a617316d1f44e8547fbbc4537f64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Desktop_\u110C\u1169\u11AF\u110C\u1161\u11A8\u1109\u1161\u110C\u1175\u11AB_\u1100\u1169\u11BC\u1112\u1161\u11A8\u1100\u116A\u11AB_\u1100\u1169\u11BC\u1107\u11752"
+    second: {fileID: 2800000, guid: 1b0164b55a4304f4395d891a9f9843fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Desktop_\u110C\u1169\u11AF\u110C\u1161\u11A8\u1109\u1161\u110C\u1175\u11AB_\u1100\u1169\u11BC\u1112\u1161\u11A8\u1100\u116A\u11AB_\u1100\u1169\u11BC\u1107\u11753"
+    second: {fileID: 2800000, guid: f201e2f933c70a5458066470b3134196, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Desktop_\u110C\u1169\u11AF\u110C\u1161\u11A8\u1109\u1161\u110C\u1175\u11AB_\u1100\u1169\u11BC\u1112\u1161\u11A8\u1100\u116A\u11AB_\u1100\u1169\u11BC\u1107\u11754"
+    second: {fileID: 2800000, guid: 84231ca3213789e4587b114697050050, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Desktop_\u110C\u1169\u11AF\u110C\u1161\u11A8\u1109\u1161\u110C\u1175\u11AB_\u1100\u1169\u11BC\u1112\u1161\u11A8\u1100\u116A\u11AB_\u1100\u1169\u11BC\u1107\u117544"
+    second: {fileID: 2800000, guid: c15d3dd2becc85c42b0810b680dbdd66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Desktop_\u110C\u1169\u11AF\u110C\u1161\u11A8\u1109\u1161\u110C\u1175\u11AB_\u1100\u1169\u11BC\u1112\u1161\u11A8\u1100\u116A\u11AB_\u1100\u1169\u11BC\u1107\u117588"
+    second: {fileID: 2800000, guid: 850b85a5f90fc2e458930655cdf207aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Desktop_\u110C\u1169\u11AF\u110C\u1161\u11A8\u1109\u1161\u110C\u1175\u11AB_\u1100\u1169\u11BC\u1112\u1161\u11A8\u1100\u116A\u11AB_\u1100\u1169\u11BC\u1107\u117599"
+    second: {fileID: 2800000, guid: a0634731fb91c5b43b89cbd1ea581d01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Desktop_\u110C\u1169\u11AF\u110C\u1161\u11A8\u1109\u1161\u110C\u1175\u11AB_\u1100\u1169\u11BC\u1112\u1161\u11A8\u1100\u116A\u11AB_\u110B\u1161\u110B\u1161"
+    second: {fileID: 2800000, guid: 8be9dd8587f152b41b5c2f8f47310a7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Desktop_\u110C\u1169\u11AF\u110C\u1161\u11A8\u1109\u1161\u110C\u1175\u11AB_\u1100\u1169\u11BC\u1112\u1161\u11A8\u1100\u116A\u11AB_\u314E\u3134\u3147\u314E\u3134\u314E\u3134\u3147"
+    second: {fileID: 2800000, guid: 9fa614be5e285eb40b23eb7b2cb1f5e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u1100\u1169\u11BC\u1107\u1175\u1107\u1167\u11A8"
+    second: {fileID: 2800000, guid: 32300ca52328cf8488d0785a5dff77f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\uACF5\uD559\uAD00A"
+    second: {fileID: 2800000, guid: b336273d4640aa5499ab46858fe07fab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\uACF5\uD559\uAD00A2"
+    second: {fileID: 2800000, guid: 2a54c0f16831f5149bb5375f963ce9b0, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

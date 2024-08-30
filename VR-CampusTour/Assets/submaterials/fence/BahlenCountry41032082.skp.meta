@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 36c46991904bb3f4a9b47ece31df2c2e
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: fa537d5ee6499874336ff929f6aaee08
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.0778326, y: 0.61381763, z: -2.5434341}
+      lookAt: {x: 1.1992699, y: 0.63696444, z: 0.022527333}
+      up: {x: -0.00042594504, y: 0.9999594, z: -0.009000187}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cap
+    100004: Cap 1
+    100006: Group 2
+    100008: Group 4
+    100010: Group 54
+    100012: Group 56
+    100014: Group 58
+    100016: Group 6
+    100018: Wire_vertical
+    100020: Wire_vertical 1
+    100022: Wire_vertical 10
+    100024: Wire_vertical 11
+    100026: Wire_vertical 12
+    100028: Wire_vertical 13
+    100030: Wire_vertical 14
+    100032: Wire_vertical 15
+    100034: Wire_vertical 16
+    100036: Wire_vertical 17
+    100038: Wire_vertical 18
+    100040: Wire_vertical 19
+    100042: Wire_vertical 2
+    100044: Wire_vertical 20
+    100046: Wire_vertical 21
+    100048: Wire_vertical 22
+    100050: Wire_vertical 23
+    100052: Wire_vertical 24
+    100054: Wire_vertical 25
+    100056: Wire_vertical 26
+    100058: Wire_vertical 27
+    100060: Wire_vertical 28
+    100062: Wire_vertical 29
+    100064: Wire_vertical 3
+    100066: Wire_vertical 30
+    100068: Wire_vertical 31
+    100070: Wire_vertical 32
+    100072: Wire_vertical 33
+    100074: Wire_vertical 34
+    100076: Wire_vertical 35
+    100078: Wire_vertical 36
+    100080: Wire_vertical 37
+    100082: Wire_vertical 38
+    100084: Wire_vertical 39
+    100086: Wire_vertical 4
+    100088: Wire_vertical 40
+    100090: Wire_vertical 41
+    100092: Wire_vertical 42
+    100094: Wire_vertical 43
+    100096: Wire_vertical 44
+    100098: Wire_vertical 45
+    100100: Wire_vertical 5
+    100102: Wire_vertical 6
+    100104: Wire_vertical 7
+    100106: Wire_vertical 8
+    100108: Wire_vertical 9
+    400000: //RootNode
+    400002: Cap
+    400004: Cap 1
+    400006: Group 2
+    400008: Group 4
+    400010: Group 54
+    400012: Group 56
+    400014: Group 58
+    400016: Group 6
+    400018: Wire_vertical
+    400020: Wire_vertical 1
+    400022: Wire_vertical 10
+    400024: Wire_vertical 11
+    400026: Wire_vertical 12
+    400028: Wire_vertical 13
+    400030: Wire_vertical 14
+    400032: Wire_vertical 15
+    400034: Wire_vertical 16
+    400036: Wire_vertical 17
+    400038: Wire_vertical 18
+    400040: Wire_vertical 19
+    400042: Wire_vertical 2
+    400044: Wire_vertical 20
+    400046: Wire_vertical 21
+    400048: Wire_vertical 22
+    400050: Wire_vertical 23
+    400052: Wire_vertical 24
+    400054: Wire_vertical 25
+    400056: Wire_vertical 26
+    400058: Wire_vertical 27
+    400060: Wire_vertical 28
+    400062: Wire_vertical 29
+    400064: Wire_vertical 3
+    400066: Wire_vertical 30
+    400068: Wire_vertical 31
+    400070: Wire_vertical 32
+    400072: Wire_vertical 33
+    400074: Wire_vertical 34
+    400076: Wire_vertical 35
+    400078: Wire_vertical 36
+    400080: Wire_vertical 37
+    400082: Wire_vertical 38
+    400084: Wire_vertical 39
+    400086: Wire_vertical 4
+    400088: Wire_vertical 40
+    400090: Wire_vertical 41
+    400092: Wire_vertical 42
+    400094: Wire_vertical 43
+    400096: Wire_vertical 44
+    400098: Wire_vertical 45
+    400100: Wire_vertical 5
+    400102: Wire_vertical 6
+    400104: Wire_vertical 7
+    400106: Wire_vertical 8
+    400108: Wire_vertical 9
+    2100000: _defaultMat
+    2100002: '[Color_G16]'
+    2100004: '[Color_008]'
+    2300000: //RootNode
+    2300002: Cap
+    2300004: Cap 1
+    2300006: Group 2
+    2300008: Group 4
+    2300010: Group 54
+    2300012: Group 56
+    2300014: Group 58
+    2300016: Group 6
+    2300018: Wire_vertical
+    2300020: Wire_vertical 1
+    2300022: Wire_vertical 10
+    2300024: Wire_vertical 11
+    2300026: Wire_vertical 12
+    2300028: Wire_vertical 13
+    2300030: Wire_vertical 14
+    2300032: Wire_vertical 15
+    2300034: Wire_vertical 16
+    2300036: Wire_vertical 17
+    2300038: Wire_vertical 18
+    2300040: Wire_vertical 19
+    2300042: Wire_vertical 2
+    2300044: Wire_vertical 20
+    2300046: Wire_vertical 21
+    2300048: Wire_vertical 22
+    2300050: Wire_vertical 23
+    2300052: Wire_vertical 24
+    2300054: Wire_vertical 25
+    2300056: Wire_vertical 26
+    2300058: Wire_vertical 27
+    2300060: Wire_vertical 28
+    2300062: Wire_vertical 29
+    2300064: Wire_vertical 3
+    2300066: Wire_vertical 30
+    2300068: Wire_vertical 31
+    2300070: Wire_vertical 32
+    2300072: Wire_vertical 33
+    2300074: Wire_vertical 34
+    2300076: Wire_vertical 35
+    2300078: Wire_vertical 36
+    2300080: Wire_vertical 37
+    2300082: Wire_vertical 38
+    2300084: Wire_vertical 39
+    2300086: Wire_vertical 4
+    2300088: Wire_vertical 40
+    2300090: Wire_vertical 41
+    2300092: Wire_vertical 42
+    2300094: Wire_vertical 43
+    2300096: Wire_vertical 44
+    2300098: Wire_vertical 45
+    2300100: Wire_vertical 5
+    2300102: Wire_vertical 6
+    2300104: Wire_vertical 7
+    2300106: Wire_vertical 8
+    2300108: Wire_vertical 9
+    3300000: //RootNode
+    3300002: Cap
+    3300004: Cap 1
+    3300006: Group 2
+    3300008: Group 4
+    3300010: Group 54
+    3300012: Group 56
+    3300014: Group 58
+    3300016: Group 6
+    3300018: Wire_vertical
+    3300020: Wire_vertical 1
+    3300022: Wire_vertical 10
+    3300024: Wire_vertical 11
+    3300026: Wire_vertical 12
+    3300028: Wire_vertical 13
+    3300030: Wire_vertical 14
+    3300032: Wire_vertical 15
+    3300034: Wire_vertical 16
+    3300036: Wire_vertical 17
+    3300038: Wire_vertical 18
+    3300040: Wire_vertical 19
+    3300042: Wire_vertical 2
+    3300044: Wire_vertical 20
+    3300046: Wire_vertical 21
+    3300048: Wire_vertical 22
+    3300050: Wire_vertical 23
+    3300052: Wire_vertical 24
+    3300054: Wire_vertical 25
+    3300056: Wire_vertical 26
+    3300058: Wire_vertical 27
+    3300060: Wire_vertical 28
+    3300062: Wire_vertical 29
+    3300064: Wire_vertical 3
+    3300066: Wire_vertical 30
+    3300068: Wire_vertical 31
+    3300070: Wire_vertical 32
+    3300072: Wire_vertical 33
+    3300074: Wire_vertical 34
+    3300076: Wire_vertical 35
+    3300078: Wire_vertical 36
+    3300080: Wire_vertical 37
+    3300082: Wire_vertical 38
+    3300084: Wire_vertical 39
+    3300086: Wire_vertical 4
+    3300088: Wire_vertical 40
+    3300090: Wire_vertical 41
+    3300092: Wire_vertical 42
+    3300094: Wire_vertical 43
+    3300096: Wire_vertical 44
+    3300098: Wire_vertical 45
+    3300100: Wire_vertical 5
+    3300102: Wire_vertical 6
+    3300104: Wire_vertical 7
+    3300106: Wire_vertical 8
+    3300108: Wire_vertical 9
+    4300000: Mesh BahlenCountry41032082
+    4300002: Mesh Group 2
+    4300004: Mesh Group 4
+    4300006: Mesh Group 6
+    4300008: Mesh Wire_vertical
+    4300010: Mesh Group 54
+    4300012: Mesh Group 56
+    4300014: Mesh Cap
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

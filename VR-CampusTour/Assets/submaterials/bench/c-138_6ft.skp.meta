@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 221232188c4cf444fa3bb21d796222d5
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 46e4c74b467012495343ad231495ea05
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.9382137, y: 0.91389316, z: -0.78632104}
+      lookAt: {x: 0.59493417, y: 0.25698966, z: 0.56198454}
+      up: {x: -0.23027155, y: 0.9452791, z: 0.23113315}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -0.55789983, y: -0.40775296, z: -0.5632936}
+        lookAt: {x: -0.5021099, y: -0.3669777, z: -0.5069642}
+        up: {x: -0.31830472, y: 0.8892673, z: -0.32845968}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 0
+      name: Under_Back
+    - camera:
+        position: {x: 0.5375649, y: -0.25095403, z: -0.66547763}
+        lookAt: {x: 0.4838084, y: -0.22585861, z: -0.5989299}
+        up: {x: 0.17930931, y: 0.9595598, z: -0.21700954}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 0
+      name: 300
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group 1
+    100004: Group 10
+    100006: Group 2
+    100008: Group 3
+    100010: Group 34
+    100012: Group 36
+    100014: Group 5
+    100016: Group 6
+    100018: Group 8
+    100020: INC  USA
+    100022: STANLEY INC  USA
+    100024: VICTOR
+    100026: VICTOR STANLEY
+    100028: vs
+    100030: vs 1
+    100032: vs 2
+    100034: vs#1
+    100036: vs#1 1
+    100038: vs#2
+    100040: vs#2 1
+    400000: //RootNode
+    400002: Group 1
+    400004: Group 10
+    400006: Group 2
+    400008: Group 3
+    400010: Group 34
+    400012: Group 36
+    400014: Group 5
+    400016: Group 6
+    400018: Group 8
+    400020: INC  USA
+    400022: STANLEY INC  USA
+    400024: VICTOR
+    400026: VICTOR STANLEY
+    400028: vs
+    400030: vs 1
+    400032: vs 2
+    400034: vs#1
+    400036: vs#1 1
+    400038: vs#2
+    400040: vs#2 1
+    2100000: '[Color_C07]'
+    2100002: '[Color_005]'
+    2100004: decal-2008
+    2300000: Group 10
+    2300002: Group 3
+    2300004: Group 34
+    2300006: Group 36
+    2300008: Group 6
+    2300010: Group 8
+    2300012: INC  USA
+    2300014: STANLEY INC  USA
+    2300016: VICTOR
+    2300018: VICTOR STANLEY
+    2300020: vs
+    2300022: vs 1
+    2300024: vs 2
+    2300026: vs#1
+    2300028: vs#1 1
+    2300030: vs#2
+    2300032: vs#2 1
+    3300000: Group 10
+    3300002: Group 3
+    3300004: Group 34
+    3300006: Group 36
+    3300008: Group 6
+    3300010: Group 8
+    3300012: INC  USA
+    3300014: STANLEY INC  USA
+    3300016: VICTOR
+    3300018: VICTOR STANLEY
+    3300020: vs
+    3300022: vs 1
+    3300024: vs 2
+    3300026: vs#1
+    3300028: vs#1 1
+    3300030: vs#2
+    3300032: vs#2 1
+    4300000: Mesh Group 3
+    4300002: Mesh Group 6
+    4300004: Mesh Group 8
+    4300006: Mesh vs#2
+    4300008: Mesh vs#1
+    4300010: Mesh vs
+    4300012: Mesh VICTOR STANLEY
+    4300014: Mesh INC  USA
+    4300016: Mesh STANLEY INC  USA
+    4300018: Mesh VICTOR
+    4300020: Mesh Group 34
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_C07]'
+    second: {fileID: 2100010, guid: 8907d4f8d303b4b4793af72e14d9ef1c, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

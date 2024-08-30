@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: f4377be3700facf44a4f46047d70d59f
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000120000001300000014000000150000001600000017000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 2300914c93739ea71f0e3d3c4d665a11
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 90.703926, y: 45.640797, z: -20.968973}
+      lookAt: {x: -6.177154, y: -15.4064455, z: 61.107086}
+      up: {x: -0.33061188, y: 0.9012469, z: 0.28008896}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Image 10
+    100002: Image 11
+    100004: Image 12
+    100006: Image 13
+    100008: Image 14
+    100010: Image 15
+    100012: Image 16
+    100014: Image 17
+    100016: Image 18
+    100018: Image 19
+    100020: Image 2
+    100022: Image 20
+    100024: Image 21
+    100026: Image 22
+    100028: Image 23
+    100030: Image 3
+    100032: Image 4
+    100034: Image 5
+    100036: Image 6
+    100038: Image 7
+    100040: Image 8
+    100042: Image 9
+    100044: //RootNode
+    400000: Image 10
+    400002: Image 11
+    400004: Image 12
+    400006: Image 13
+    400008: Image 14
+    400010: Image 15
+    400012: Image 16
+    400014: Image 17
+    400016: Image 18
+    400018: Image 19
+    400020: Image 2
+    400022: Image 20
+    400024: Image 21
+    400026: Image 22
+    400028: Image 23
+    400030: Image 3
+    400032: Image 4
+    400034: Image 5
+    400036: Image 6
+    400038: Image 7
+    400040: Image 8
+    400042: Image 9
+    400044: //RootNode
+    2100000: _defaultMat
+    2100002: "\u110E\u1161\u11BC\u110B\u1174\u1100\u116A\u11AB0111"
+    2100004: '[Chris_Pants]'
+    2100006: _4
+    2100008: "\u110E\u1161\u11BC\u110B\u1174\u1100\u116A\u11AB00"
+    2100010: '[Chris_Shoe_Sole]'
+    2100012: _3
+    2100014: Material 7
+    2100016: Material 8
+    2100018: Material 9
+    2100020: Material 10
+    2100022: Material 11
+    2100024: Material 12
+    2100026: Material 13
+    2100028: Material 14
+    2100030: Material 15
+    2100032: Material 16
+    2100034: Material 17
+    2100036: Material 18
+    2100038: Material 19
+    2100040: Material 20
+    2100042: Material 21
+    2100044: Material 22
+    2100046: Material 23
+    2100048: Material 24
+    2100050: Material 25
+    2100052: Material 26
+    2100054: Material 27
+    2100056: Material 28
+    2300000: Image 10
+    2300002: Image 11
+    2300004: Image 12
+    2300006: Image 13
+    2300008: Image 14
+    2300010: Image 15
+    2300012: Image 16
+    2300014: Image 17
+    2300016: Image 18
+    2300018: Image 19
+    2300020: Image 2
+    2300022: Image 20
+    2300024: Image 21
+    2300026: Image 22
+    2300028: Image 23
+    2300030: Image 3
+    2300032: Image 4
+    2300034: Image 5
+    2300036: Image 6
+    2300038: Image 7
+    2300040: Image 8
+    2300042: Image 9
+    2300044: //RootNode
+    3300000: Image 10
+    3300002: Image 11
+    3300004: Image 12
+    3300006: Image 13
+    3300008: Image 14
+    3300010: Image 15
+    3300012: Image 16
+    3300014: Image 17
+    3300016: Image 18
+    3300018: Image 19
+    3300020: Image 2
+    3300022: Image 20
+    3300024: Image 21
+    3300026: Image 22
+    3300028: Image 23
+    3300030: Image 3
+    3300032: Image 4
+    3300034: Image 5
+    3300036: Image 6
+    3300038: Image 7
+    3300040: Image 8
+    3300042: Image 9
+    3300044: //RootNode
+    4300000: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300002: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300004: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300006: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300008: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300010: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300012: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300014: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300016: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300018: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300020: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300022: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300024: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300026: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300028: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300030: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300032: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300034: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300036: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300038: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300040: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300042: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+    4300044: "Mesh \uCC3D\uC758\uAD001\uC644\uC1312018\uB05D"
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u110E\u1161\u11BC\u110B\u1174\u1100\u116A\u11AB0"
+    second: {fileID: 2800000, guid: 7fd7f6523f860224ea15d2e987916e66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u110E\u1161\u11BC\u110B\u1174\u1100\u116A\u11AB00"
+    second: {fileID: 2800000, guid: b065cf8d5ba44f840b145146ae34e3ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u110E\u1161\u11BC\u110B\u1174\u1100\u116A\u11AB01"
+    second: {fileID: 2800000, guid: d22de5fc70bada1498cb84d0f18239e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u110E\u1161\u11BC\u110B\u1174\u1100\u116A\u11AB011"
+    second: {fileID: 2800000, guid: 2b6437175547f30489b69023797f3e32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u110E\u1161\u11BC\u110B\u1174\u1100\u116A\u11AB1"
+    second: {fileID: 2800000, guid: 637e902d4f2e7174c83871ac2555fc9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u110E\u1161\u11BC\u110B\u1174\u1100\u116A\u11AB3"
+    second: {fileID: 2800000, guid: 529431d9afd2daa47a0cffab0ff54762, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u110E\u1161\u11BC\u110B\u1174\u1100\u116A\u11AB\u110B\u1175\u11B8\u1100\u116E"
+    second: {fileID: 2800000, guid: bc21c14ca775a7849840b73d862b1090, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u110E\u1161\u11BC\u110B\u1174\u1100\u116A\u11AB\u3147\u1105\u1172\u3163"
+    second: {fileID: 2800000, guid: 511271fa301e45242adde08f7288db79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "_Users_yujuyeon_Downloads_\u110E\u1161\u11BC\u3147\u110B\u1174\u11AB\u1100\u116A\u11AB\u110B\u1172\u1105\u1175"
+    second: {fileID: 2800000, guid: 8aaffa3af2f5e424b8f77096b6e7f7ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u110E\u1161\u11BC\u110B\u1174\u1100\u116A\u11AB00"
+    second: {fileID: 2800000, guid: c46f1b48ecd590b4c9f1ca806b484974, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

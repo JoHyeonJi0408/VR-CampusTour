@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: eee4e7ecb14527647af72962b04df453
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: d4020592df05c3efd5bdfe124696d638
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -5.437066, y: -0.18863995, z: -4.890771}
+      lookAt: {x: 0.5009605, y: 1.509807, z: 0.17254193}
+      up: {x: -0.16182514, y: 0.97712445, z: -0.13798714}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -2.3580394, y: 1.4245126, z: -5.0267773}
+        lookAt: {x: 4.806177, y: 1.4245126, z: 5.337528}
+        up: {x: 3.5675361e-19, y: 1, z: -2.4660216e-19}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 2
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: C1
+    100004: C1 1
+    100006: C1 2
+    100008: C1 3
+    100010: Group 3
+    100012: Group 41
+    100014: Group 45
+    100016: Group 7
+    100018: HD1
+    100020: HD1 1
+    100022: HD1#1
+    100024: HD1#1 1
+    100026: L1
+    100028: L1 1
+    100030: L1 10
+    100032: L1 2
+    100034: L1 3
+    100036: L1 4
+    100038: L1 5
+    100040: L1 6
+    100042: L1 7
+    100044: L1 8
+    100046: L1 9
+    400000: //RootNode
+    400002: C1
+    400004: C1 1
+    400006: C1 2
+    400008: C1 3
+    400010: Group 3
+    400012: Group 41
+    400014: Group 45
+    400016: Group 7
+    400018: HD1
+    400020: HD1 1
+    400022: HD1#1
+    400024: HD1#1 1
+    400026: L1
+    400028: L1 1
+    400030: L1 10
+    400032: L1 2
+    400034: L1 3
+    400036: L1 4
+    400038: L1 5
+    400040: L1 6
+    400042: L1 7
+    400044: L1 8
+    400046: L1 9
+    2100000: '[Color_B21]'
+    2100002: '[Color_B22]'
+    2300000: C1
+    2300002: C1 1
+    2300004: C1 2
+    2300006: C1 3
+    2300008: Group 3
+    2300010: Group 41
+    2300012: Group 45
+    2300014: Group 7
+    2300016: HD1
+    2300018: HD1 1
+    2300020: HD1#1
+    2300022: HD1#1 1
+    2300024: L1
+    2300026: L1 1
+    2300028: L1 10
+    2300030: L1 2
+    2300032: L1 3
+    2300034: L1 4
+    2300036: L1 5
+    2300038: L1 6
+    2300040: L1 7
+    2300042: L1 8
+    2300044: L1 9
+    3300000: C1
+    3300002: C1 1
+    3300004: C1 2
+    3300006: C1 3
+    3300008: Group 3
+    3300010: Group 41
+    3300012: Group 45
+    3300014: Group 7
+    3300016: HD1
+    3300018: HD1 1
+    3300020: HD1#1
+    3300022: HD1#1 1
+    3300024: L1
+    3300026: L1 1
+    3300028: L1 10
+    3300030: L1 2
+    3300032: L1 3
+    3300034: L1 4
+    3300036: L1 5
+    3300038: L1 6
+    3300040: L1 7
+    3300042: L1 8
+    3300044: L1 9
+    4300000: Mesh C1
+    4300002: Mesh Group 3
+    4300004: Mesh HD1
+    4300006: Mesh L1
+    4300008: Mesh L1
+    4300010: Mesh HD1
+    4300012: Mesh HD1#1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_B21]'
+    second: {fileID: 2100002, guid: 948d72bdf5ce9354e9a37ab50f2a1780, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_B22]'
+    second: {fileID: 2100004, guid: 362d8da125901fa4aa2c30abb7142080, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

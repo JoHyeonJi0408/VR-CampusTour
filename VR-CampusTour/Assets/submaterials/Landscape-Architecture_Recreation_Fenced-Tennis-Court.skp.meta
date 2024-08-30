@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: 9d24f6ab132b5ee43b08e7d4c4b58d55
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 9d9e32b899f0e6785b484434e4394895
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -20.792147, y: 17.977745, z: -25.713959}
+      lookAt: {x: 22.031412, y: -7.356764, z: 15.51995}
+      up: {x: 0.28240976, y: 0.9199461, z: 0.27192646}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Fence Section
+    100002: Fence Section 1
+    100004: Fence Section 10
+    100006: Fence Section 11
+    100008: Fence Section 12
+    100010: Fence Section 13
+    100012: Fence Section 14
+    100014: Fence Section 15
+    100016: Fence Section 16
+    100018: Fence Section 17
+    100020: Fence Section 18
+    100022: Fence Section 19
+    100024: Fence Section 2
+    100026: Fence Section 20
+    100028: Fence Section 21
+    100030: Fence Section 22
+    100032: Fence Section 23
+    100034: Fence Section 24
+    100036: Fence Section 25
+    100038: Fence Section 26
+    100040: Fence Section 27
+    100042: Fence Section 28
+    100044: Fence Section 29
+    100046: Fence Section 3
+    100048: Fence Section 30
+    100050: Fence Section 31
+    100052: Fence Section 32
+    100054: Fence Section 33
+    100056: Fence Section 4
+    100058: Fence Section 5
+    100060: Fence Section 6
+    100062: Fence Section 7
+    100064: Fence Section 8
+    100066: Fence Section 9
+    100068: Fence Section#1
+    100070: Fence Section#1 1
+    100072: Ground Net
+    100074: //RootNode
+    100076: Net
+    100078: Net Adjustment
+    100080: Net Adjustment 1
+    100082: Net Pole
+    100084: Net Pole 1
+    100086: Net Wire
+    100088: Pole Supporter
+    100090: Post
+    100092: Post 1
+    100094: Post 10
+    100096: Post 11
+    100098: Post 12
+    100100: Post 13
+    100102: Post 14
+    100104: Post 15
+    100106: Post 16
+    100108: Post 17
+    100110: Post 18
+    100112: Post 19
+    100114: Post 2
+    100116: Post 20
+    100118: Post 21
+    100120: Post 22
+    100122: Post 23
+    100124: Post 24
+    100126: Post 25
+    100128: Post 26
+    100130: Post 27
+    100132: Post 28
+    100134: Post 29
+    100136: Post 3
+    100138: Post 30
+    100140: Post 31
+    100142: Post 32
+    100144: Post 33
+    100146: Post 34
+    100148: Post 35
+    100150: Post 36
+    100152: Post 37
+    100154: Post 4
+    100156: Post 5
+    100158: Post 6
+    100160: Post 7
+    100162: Post 8
+    100164: Post 9
+    100166: Tennis Court
+    400000: Fence Section
+    400002: Fence Section 1
+    400004: Fence Section 10
+    400006: Fence Section 11
+    400008: Fence Section 12
+    400010: Fence Section 13
+    400012: Fence Section 14
+    400014: Fence Section 15
+    400016: Fence Section 16
+    400018: Fence Section 17
+    400020: Fence Section 18
+    400022: Fence Section 19
+    400024: Fence Section 2
+    400026: Fence Section 20
+    400028: Fence Section 21
+    400030: Fence Section 22
+    400032: Fence Section 23
+    400034: Fence Section 24
+    400036: Fence Section 25
+    400038: Fence Section 26
+    400040: Fence Section 27
+    400042: Fence Section 28
+    400044: Fence Section 29
+    400046: Fence Section 3
+    400048: Fence Section 30
+    400050: Fence Section 31
+    400052: Fence Section 32
+    400054: Fence Section 33
+    400056: Fence Section 4
+    400058: Fence Section 5
+    400060: Fence Section 6
+    400062: Fence Section 7
+    400064: Fence Section 8
+    400066: Fence Section 9
+    400068: Fence Section#1
+    400070: Fence Section#1 1
+    400072: Ground Net
+    400074: //RootNode
+    400076: Net
+    400078: Net Adjustment
+    400080: Net Adjustment 1
+    400082: Net Pole
+    400084: Net Pole 1
+    400086: Net Wire
+    400088: Pole Supporter
+    400090: Post
+    400092: Post 1
+    400094: Post 10
+    400096: Post 11
+    400098: Post 12
+    400100: Post 13
+    400102: Post 14
+    400104: Post 15
+    400106: Post 16
+    400108: Post 17
+    400110: Post 18
+    400112: Post 19
+    400114: Post 2
+    400116: Post 20
+    400118: Post 21
+    400120: Post 22
+    400122: Post 23
+    400124: Post 24
+    400126: Post 25
+    400128: Post 26
+    400130: Post 27
+    400132: Post 28
+    400134: Post 29
+    400136: Post 3
+    400138: Post 30
+    400140: Post 31
+    400142: Post 32
+    400144: Post 33
+    400146: Post 34
+    400148: Post 35
+    400150: Post 36
+    400152: Post 37
+    400154: Post 4
+    400156: Post 5
+    400158: Post 6
+    400160: Post 7
+    400162: Post 8
+    400164: Post 9
+    400166: Tennis Court
+    2100000: _defaultMat
+    2100002: '[Color_001]'
+    2100004: '[Color_008]'
+    2100006: _Gray_
+    2100008: _Wavy Crosshatch_
+    2100010: _MediumSeaGreen_
+    2100012: _FireBrick_
+    2100014: _Snow_
+    2300000: Fence Section#1
+    2300002: Fence Section#1 1
+    2300004: Ground Net
+    2300006: //RootNode
+    2300008: Net
+    2300010: Net Adjustment
+    2300012: Net Adjustment 1
+    2300014: Net Pole
+    2300016: Net Pole 1
+    2300018: Net Wire
+    2300020: Pole Supporter
+    2300022: Post
+    2300024: Post 1
+    2300026: Post 10
+    2300028: Post 11
+    2300030: Post 12
+    2300032: Post 13
+    2300034: Post 14
+    2300036: Post 15
+    2300038: Post 16
+    2300040: Post 17
+    2300042: Post 18
+    2300044: Post 19
+    2300046: Post 2
+    2300048: Post 20
+    2300050: Post 21
+    2300052: Post 22
+    2300054: Post 23
+    2300056: Post 24
+    2300058: Post 25
+    2300060: Post 26
+    2300062: Post 27
+    2300064: Post 28
+    2300066: Post 29
+    2300068: Post 3
+    2300070: Post 30
+    2300072: Post 31
+    2300074: Post 32
+    2300076: Post 33
+    2300078: Post 34
+    2300080: Post 35
+    2300082: Post 36
+    2300084: Post 37
+    2300086: Post 4
+    2300088: Post 5
+    2300090: Post 6
+    2300092: Post 7
+    2300094: Post 8
+    2300096: Post 9
+    2300098: Tennis Court
+    3300000: Fence Section#1
+    3300002: Fence Section#1 1
+    3300004: Ground Net
+    3300006: //RootNode
+    3300008: Net
+    3300010: Net Adjustment
+    3300012: Net Adjustment 1
+    3300014: Net Pole
+    3300016: Net Pole 1
+    3300018: Net Wire
+    3300020: Pole Supporter
+    3300022: Post
+    3300024: Post 1
+    3300026: Post 10
+    3300028: Post 11
+    3300030: Post 12
+    3300032: Post 13
+    3300034: Post 14
+    3300036: Post 15
+    3300038: Post 16
+    3300040: Post 17
+    3300042: Post 18
+    3300044: Post 19
+    3300046: Post 2
+    3300048: Post 20
+    3300050: Post 21
+    3300052: Post 22
+    3300054: Post 23
+    3300056: Post 24
+    3300058: Post 25
+    3300060: Post 26
+    3300062: Post 27
+    3300064: Post 28
+    3300066: Post 29
+    3300068: Post 3
+    3300070: Post 30
+    3300072: Post 31
+    3300074: Post 32
+    3300076: Post 33
+    3300078: Post 34
+    3300080: Post 35
+    3300082: Post 36
+    3300084: Post 37
+    3300086: Post 4
+    3300088: Post 5
+    3300090: Post 6
+    3300092: Post 7
+    3300094: Post 8
+    3300096: Post 9
+    3300098: Tennis Court
+    4300000: Mesh Fenced Tennis Court
+    4300002: Mesh Post
+    4300004: Mesh Fence Section#1
+    4300006: Mesh Post
+    4300008: Mesh Tennis Court
+    4300010: Mesh Net Pole
+    4300012: Mesh Net
+    4300014: Mesh Net Adjustment
+    4300016: Mesh Net Wire
+    4300018: Mesh Pole Supporter
+    4300020: Mesh Ground Net
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

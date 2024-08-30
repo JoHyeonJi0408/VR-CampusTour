@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 41c71ea5cd8941344a01447a1be8e43a
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000
+  assetHash:
+    serializedVersion: 2
+    Hash: d6dc647728ed15b3752f6302fb80762a
+  longitude: -71.99976
+  latitude: 19.111723
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.2630771, y: 1.9518008, z: -0.7595275}
+      lookAt: {x: 0.0014092895, y: 0.8528388, z: 1.5159717}
+      up: {x: -0.18867384, y: 0.92119926, z: 0.3402854}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 139.1825
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base Plate
+    100002: Base Plate 1
+    100004: Difference
+    100006: Difference 1
+    100008: Difference 2
+    100010: Difference 3
+    100012: Difference 4
+    100014: Group 1
+    100016: Group 11
+    100018: Group 117
+    100020: Group 119
+    100022: Group 126
+    100024: Group 133
+    100026: Group 134
+    100028: Group 18
+    100030: Group 2
+    100032: Group 25
+    100034: Group 32
+    100036: Group 37
+    100038: Group 39
+    100040: Group 4
+    100042: Group 44
+    100044: Group 46
+    100046: Group 51
+    100048: Group 53
+    100050: Group 61
+    100052: Group 62
+    100054: Group 79
+    100056: Group 94
+    100058: Lag Bolt
+    100060: Lag Bolt 1
+    100062: Lag Bolt 2
+    100064: Lag Bolt 3
+    100066: Landing Angle 1
+    100068: Landing Angle 1 1
+    100070: //RootNode
+    100072: Post
+    100074: Post 1
+    100076: Rail Picket 1
+    100078: Rail Picket 1 1
+    100080: Rail Picket 1 10
+    100082: Rail Picket 1 11
+    100084: Rail Picket 1 12
+    100086: Rail Picket 1 13
+    100088: Rail Picket 1 14
+    100090: Rail Picket 1 2
+    100092: Rail Picket 1 3
+    100094: Rail Picket 1 4
+    100096: Rail Picket 1 5
+    100098: Rail Picket 1 6
+    100100: Rail Picket 1 7
+    100102: Rail Picket 1 8
+    100104: Rail Picket 1 9
+    100106: Stair Base Angle
+    100108: Stair Base Angle 1
+    100110: Stair Carry Angle
+    100112: Stair Carry Angle 1
+    100114: Stair Carry Angle 2
+    100116: Stair Carry Angle 3
+    100118: Stair Carry Angle 4
+    100120: Stair Carry Angle 5
+    100122: Stair Carry Angle 6
+    100124: Stair Carry Angle 7
+    100126: Stair Stringer Picket
+    100128: Stair Stringer Picket 1
+    100130: Stair Stringer Picket 10
+    100132: Stair Stringer Picket 11
+    100134: Stair Stringer Picket 12
+    100136: Stair Stringer Picket 13
+    100138: Stair Stringer Picket 14
+    100140: Stair Stringer Picket 15
+    100142: Stair Stringer Picket 16
+    100144: Stair Stringer Picket 17
+    100146: Stair Stringer Picket 18
+    100148: Stair Stringer Picket 19
+    100150: Stair Stringer Picket 2
+    100152: Stair Stringer Picket 3
+    100154: Stair Stringer Picket 4
+    100156: Stair Stringer Picket 5
+    100158: Stair Stringer Picket 6
+    100160: Stair Stringer Picket 7
+    100162: Stair Stringer Picket 8
+    100164: Stair Stringer Picket 9
+    100166: Stair Tread
+    100168: Stair Tread 1
+    100170: Stair Tread 2
+    100172: Stair Tread 3
+    100174: Structural Bolt & Nut
+    100176: Structural Bolt & Nut 1
+    100178: Structural Bolt & Nut 2
+    100180: Structural Bolt & Nut 3
+    100182: Structural Bolt & Nut 4
+    100184: Structural Bolt & Nut 5
+    100186: Structural Bolt & Nut 6
+    100188: Structural Bolt & Nut 7
+    400000: Base Plate
+    400002: Base Plate 1
+    400004: Difference
+    400006: Difference 1
+    400008: Difference 2
+    400010: Difference 3
+    400012: Difference 4
+    400014: Group 1
+    400016: Group 11
+    400018: Group 117
+    400020: Group 119
+    400022: Group 126
+    400024: Group 133
+    400026: Group 134
+    400028: Group 18
+    400030: Group 2
+    400032: Group 25
+    400034: Group 32
+    400036: Group 37
+    400038: Group 39
+    400040: Group 4
+    400042: Group 44
+    400044: Group 46
+    400046: Group 51
+    400048: Group 53
+    400050: Group 61
+    400052: Group 62
+    400054: Group 79
+    400056: Group 94
+    400058: Lag Bolt
+    400060: Lag Bolt 1
+    400062: Lag Bolt 2
+    400064: Lag Bolt 3
+    400066: Landing Angle 1
+    400068: Landing Angle 1 1
+    400070: //RootNode
+    400072: Post
+    400074: Post 1
+    400076: Rail Picket 1
+    400078: Rail Picket 1 1
+    400080: Rail Picket 1 10
+    400082: Rail Picket 1 11
+    400084: Rail Picket 1 12
+    400086: Rail Picket 1 13
+    400088: Rail Picket 1 14
+    400090: Rail Picket 1 2
+    400092: Rail Picket 1 3
+    400094: Rail Picket 1 4
+    400096: Rail Picket 1 5
+    400098: Rail Picket 1 6
+    400100: Rail Picket 1 7
+    400102: Rail Picket 1 8
+    400104: Rail Picket 1 9
+    400106: Stair Base Angle
+    400108: Stair Base Angle 1
+    400110: Stair Carry Angle
+    400112: Stair Carry Angle 1
+    400114: Stair Carry Angle 2
+    400116: Stair Carry Angle 3
+    400118: Stair Carry Angle 4
+    400120: Stair Carry Angle 5
+    400122: Stair Carry Angle 6
+    400124: Stair Carry Angle 7
+    400126: Stair Stringer Picket
+    400128: Stair Stringer Picket 1
+    400130: Stair Stringer Picket 10
+    400132: Stair Stringer Picket 11
+    400134: Stair Stringer Picket 12
+    400136: Stair Stringer Picket 13
+    400138: Stair Stringer Picket 14
+    400140: Stair Stringer Picket 15
+    400142: Stair Stringer Picket 16
+    400144: Stair Stringer Picket 17
+    400146: Stair Stringer Picket 18
+    400148: Stair Stringer Picket 19
+    400150: Stair Stringer Picket 2
+    400152: Stair Stringer Picket 3
+    400154: Stair Stringer Picket 4
+    400156: Stair Stringer Picket 5
+    400158: Stair Stringer Picket 6
+    400160: Stair Stringer Picket 7
+    400162: Stair Stringer Picket 8
+    400164: Stair Stringer Picket 9
+    400166: Stair Tread
+    400168: Stair Tread 1
+    400170: Stair Tread 2
+    400172: Stair Tread 3
+    400174: Structural Bolt & Nut
+    400176: Structural Bolt & Nut 1
+    400178: Structural Bolt & Nut 2
+    400180: Structural Bolt & Nut 3
+    400182: Structural Bolt & Nut 4
+    400184: Structural Bolt & Nut 5
+    400186: Structural Bolt & Nut 6
+    400188: Structural Bolt & Nut 7
+    2100000: _defaultMat
+    2100002: '[Metal_Steel_Textured_White]'
+    2100004: '[Color_004]'
+    2100006: _LightGray_
+    2300000: Base Plate
+    2300002: Base Plate 1
+    2300004: Difference
+    2300006: Difference 1
+    2300008: Difference 2
+    2300010: Difference 3
+    2300012: Difference 4
+    2300014: Group 117
+    2300016: Group 2
+    2300018: Group 37
+    2300020: Group 44
+    2300022: Group 51
+    2300024: Group 53
+    2300026: Lag Bolt
+    2300028: Lag Bolt 1
+    2300030: Lag Bolt 2
+    2300032: Lag Bolt 3
+    2300034: Landing Angle 1
+    2300036: Landing Angle 1 1
+    2300038: Post
+    2300040: Post 1
+    2300042: Rail Picket 1
+    2300044: Rail Picket 1 1
+    2300046: Rail Picket 1 10
+    2300048: Rail Picket 1 11
+    2300050: Rail Picket 1 12
+    2300052: Rail Picket 1 13
+    2300054: Rail Picket 1 14
+    2300056: Rail Picket 1 2
+    2300058: Rail Picket 1 3
+    2300060: Rail Picket 1 4
+    2300062: Rail Picket 1 5
+    2300064: Rail Picket 1 6
+    2300066: Rail Picket 1 7
+    2300068: Rail Picket 1 8
+    2300070: Rail Picket 1 9
+    2300072: Stair Base Angle
+    2300074: Stair Base Angle 1
+    2300076: Stair Carry Angle
+    2300078: Stair Carry Angle 1
+    2300080: Stair Carry Angle 2
+    2300082: Stair Carry Angle 3
+    2300084: Stair Carry Angle 4
+    2300086: Stair Carry Angle 5
+    2300088: Stair Carry Angle 6
+    2300090: Stair Carry Angle 7
+    2300092: Stair Stringer Picket
+    2300094: Stair Stringer Picket 1
+    2300096: Stair Stringer Picket 10
+    2300098: Stair Stringer Picket 11
+    2300100: Stair Stringer Picket 12
+    2300102: Stair Stringer Picket 13
+    2300104: Stair Stringer Picket 14
+    2300106: Stair Stringer Picket 15
+    2300108: Stair Stringer Picket 16
+    2300110: Stair Stringer Picket 17
+    2300112: Stair Stringer Picket 18
+    2300114: Stair Stringer Picket 19
+    2300116: Stair Stringer Picket 2
+    2300118: Stair Stringer Picket 3
+    2300120: Stair Stringer Picket 4
+    2300122: Stair Stringer Picket 5
+    2300124: Stair Stringer Picket 6
+    2300126: Stair Stringer Picket 7
+    2300128: Stair Stringer Picket 8
+    2300130: Stair Stringer Picket 9
+    2300132: Stair Tread
+    2300134: Stair Tread 1
+    2300136: Stair Tread 2
+    2300138: Stair Tread 3
+    2300140: Structural Bolt & Nut
+    2300142: Structural Bolt & Nut 1
+    2300144: Structural Bolt & Nut 2
+    2300146: Structural Bolt & Nut 3
+    2300148: Structural Bolt & Nut 4
+    2300150: Structural Bolt & Nut 5
+    2300152: Structural Bolt & Nut 6
+    2300154: Structural Bolt & Nut 7
+    3300000: Base Plate
+    3300002: Base Plate 1
+    3300004: Difference
+    3300006: Difference 1
+    3300008: Difference 2
+    3300010: Difference 3
+    3300012: Difference 4
+    3300014: Group 117
+    3300016: Group 2
+    3300018: Group 37
+    3300020: Group 44
+    3300022: Group 51
+    3300024: Group 53
+    3300026: Lag Bolt
+    3300028: Lag Bolt 1
+    3300030: Lag Bolt 2
+    3300032: Lag Bolt 3
+    3300034: Landing Angle 1
+    3300036: Landing Angle 1 1
+    3300038: Post
+    3300040: Post 1
+    3300042: Rail Picket 1
+    3300044: Rail Picket 1 1
+    3300046: Rail Picket 1 10
+    3300048: Rail Picket 1 11
+    3300050: Rail Picket 1 12
+    3300052: Rail Picket 1 13
+    3300054: Rail Picket 1 14
+    3300056: Rail Picket 1 2
+    3300058: Rail Picket 1 3
+    3300060: Rail Picket 1 4
+    3300062: Rail Picket 1 5
+    3300064: Rail Picket 1 6
+    3300066: Rail Picket 1 7
+    3300068: Rail Picket 1 8
+    3300070: Rail Picket 1 9
+    3300072: Stair Base Angle
+    3300074: Stair Base Angle 1
+    3300076: Stair Carry Angle
+    3300078: Stair Carry Angle 1
+    3300080: Stair Carry Angle 2
+    3300082: Stair Carry Angle 3
+    3300084: Stair Carry Angle 4
+    3300086: Stair Carry Angle 5
+    3300088: Stair Carry Angle 6
+    3300090: Stair Carry Angle 7
+    3300092: Stair Stringer Picket
+    3300094: Stair Stringer Picket 1
+    3300096: Stair Stringer Picket 10
+    3300098: Stair Stringer Picket 11
+    3300100: Stair Stringer Picket 12
+    3300102: Stair Stringer Picket 13
+    3300104: Stair Stringer Picket 14
+    3300106: Stair Stringer Picket 15
+    3300108: Stair Stringer Picket 16
+    3300110: Stair Stringer Picket 17
+    3300112: Stair Stringer Picket 18
+    3300114: Stair Stringer Picket 19
+    3300116: Stair Stringer Picket 2
+    3300118: Stair Stringer Picket 3
+    3300120: Stair Stringer Picket 4
+    3300122: Stair Stringer Picket 5
+    3300124: Stair Stringer Picket 6
+    3300126: Stair Stringer Picket 7
+    3300128: Stair Stringer Picket 8
+    3300130: Stair Stringer Picket 9
+    3300132: Stair Tread
+    3300134: Stair Tread 1
+    3300136: Stair Tread 2
+    3300138: Stair Tread 3
+    3300140: Structural Bolt & Nut
+    3300142: Structural Bolt & Nut 1
+    3300144: Structural Bolt & Nut 2
+    3300146: Structural Bolt & Nut 3
+    3300148: Structural Bolt & Nut 4
+    3300150: Structural Bolt & Nut 5
+    3300152: Structural Bolt & Nut 6
+    3300154: Structural Bolt & Nut 7
+    4300000: Mesh Group 2
+    4300002: Mesh Stair Tread
+    4300004: Mesh Stair Carry Angle
+    4300006: Mesh Stair Tread
+    4300008: Mesh Difference
+    4300010: Mesh Difference
+    4300012: Mesh Group 37
+    4300014: Mesh Lag Bolt
+    4300016: Mesh Stair Base Angle
+    4300018: Mesh Group 44
+    4300020: Mesh Group 51
+    4300022: Mesh Group 53
+    4300024: Mesh Difference
+    4300026: Mesh Landing Angle 1
+    4300028: Mesh Rail Picket 1
+    4300030: Mesh Stair Stringer Picket
+    4300032: Mesh Difference
+    4300034: Mesh Group 117
+    4300036: Mesh Post
+    4300038: Mesh Base Plate
+    4300040: Mesh Difference
+    4300042: Mesh Structural Bolt & Nut
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Steel_Textured_White_tint0x6B6B6BFF
+    second: {fileID: 2800000, guid: cbe96a042fe5b714ab4b6a944420c827, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

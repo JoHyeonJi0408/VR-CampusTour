@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: bcdeb7517db0300439590e2971189d1e
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 46373e6d0641adaeebde8345d2272267
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -3.6476629, y: 1.2023447, z: 5.5413594}
+      lookAt: {x: 14.087222, y: 2.7645082, z: -11.346931}
+      up: {x: -0.046100937, y: 0.99797165, z: 0.043900255}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 10 x 10 Square Fluted column
+    100002: 10 x 8 Square Fluted column
+    100004: 8 x 10Square Fluted column
+    100006: 8 x 8 Square Fluted colummn
+    100008: Base
+    100010: Base 1
+    100012: Base 2
+    100014: Base 3
+    100016: Bottom Datum
+    100018: Bottom Datum 1
+    100020: Bottom Datum 2
+    100022: Cap
+    100024: Cap 1
+    100026: Cap 2
+    100028: Cap 3
+    100030: Copper Flashing
+    100032: Copper Flashing 1
+    100034: Copper Flashing 2
+    100036: Copper Flashing 3
+    100038: Group 12
+    100040: Group 18
+    100042: Group 2
+    100044: Group 22
+    100046: Group 27
+    100048: Group 30
+    100050: Group 35
+    100052: Group 39
+    100054: Group 48
+    100056: Group 5
+    100058: Group 50
+    100060: Group 54
+    100062: Group 8
+    100064: 'S EE ENTITY INFO '
+    100066: //RootNode
+    100068: Top Datum
+    100070: Top Datum 1
+    100072: Top Datum 2
+    100074: Top Datum 3
+    100076: Top Datum 4
+    400000: 10 x 10 Square Fluted column
+    400002: 10 x 8 Square Fluted column
+    400004: 8 x 10Square Fluted column
+    400006: 8 x 8 Square Fluted colummn
+    400008: Base
+    400010: Base 1
+    400012: Base 2
+    400014: Base 3
+    400016: Bottom Datum
+    400018: Bottom Datum 1
+    400020: Bottom Datum 2
+    400022: Cap
+    400024: Cap 1
+    400026: Cap 2
+    400028: Cap 3
+    400030: Copper Flashing
+    400032: Copper Flashing 1
+    400034: Copper Flashing 2
+    400036: Copper Flashing 3
+    400038: Group 12
+    400040: Group 18
+    400042: Group 2
+    400044: Group 22
+    400046: Group 27
+    400048: Group 30
+    400050: Group 35
+    400052: Group 39
+    400054: Group 48
+    400056: Group 5
+    400058: Group 50
+    400060: Group 54
+    400062: Group 8
+    400064: 'S EE ENTITY INFO '
+    400066: //RootNode
+    400068: Top Datum
+    400070: Top Datum 1
+    400072: Top Datum 2
+    400074: Top Datum 3
+    400076: Top Datum 4
+    2100000: _defaultMat
+    2100002: _Corrogated_1
+    2100004: Metal_Corrogated_Brown
+    2100006: Color_007
+    2300000: 10 x 8 Square Fluted column
+    2300002: Base
+    2300004: Base 1
+    2300006: Base 2
+    2300008: Base 3
+    2300010: Cap
+    2300012: Cap 1
+    2300014: Cap 2
+    2300016: Cap 3
+    2300018: Copper Flashing
+    2300020: Copper Flashing 1
+    2300022: Group 12
+    2300024: Group 18
+    2300026: Group 2
+    2300028: Group 22
+    2300030: Group 27
+    2300032: Group 30
+    2300034: Group 35
+    2300036: Group 39
+    2300038: Group 48
+    2300040: Group 5
+    2300042: Group 50
+    2300044: Group 54
+    2300046: Group 8
+    2300048: 'S EE ENTITY INFO '
+    3300000: 10 x 8 Square Fluted column
+    3300002: Base
+    3300004: Base 1
+    3300006: Base 2
+    3300008: Base 3
+    3300010: Cap
+    3300012: Cap 1
+    3300014: Cap 2
+    3300016: Cap 3
+    3300018: Copper Flashing
+    3300020: Copper Flashing 1
+    3300022: Group 12
+    3300024: Group 18
+    3300026: Group 2
+    3300028: Group 22
+    3300030: Group 27
+    3300032: Group 30
+    3300034: Group 35
+    3300036: Group 39
+    3300038: Group 48
+    3300040: Group 5
+    3300042: Group 50
+    3300044: Group 54
+    3300046: Group 8
+    3300048: 'S EE ENTITY INFO '
+    4300000: Mesh Group 2
+    4300002: Mesh Group 5
+    4300004: Mesh Group 8
+    4300006: Mesh Base
+    4300008: Mesh Group 12
+    4300010: Mesh Cap
+    4300012: Mesh Group 18
+    4300014: Mesh Base
+    4300016: Mesh 10 x 8 Square Fluted column
+    4300018: Mesh Group 35
+    4300020: Mesh Base
+    4300022: Mesh Cap
+    4300024: Mesh Copper Flashing
+    4300026: Mesh Group 48
+    4300028: 'Mesh S EE ENTITY INFO '
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_007
+    second: {fileID: 2100016, guid: 157e2630e3dcff9458b1f2beff9c5dd3, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Corrogated_Brown
+    second: {fileID: 2100002, guid: 52d3bf2b44b7d2f44897fffb7f958e69, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Corrogated_1
+    second: {fileID: 2100004, guid: ac0d93c3f0ab66c45882c9bd03215ff2, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100004, guid: 362d8da125901fa4aa2c30abb7142080, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CorrogateShiny_tint0xE0A178FF
+    second: {fileID: 2800000, guid: 69c8600e71d98c441a80cb499acdbbc2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Corrogated_Shiny_tint0xC1946DFF
+    second: {fileID: 2800000, guid: a8c050822c08c1747bc940538f258a31, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
