@@ -11,7 +11,7 @@
 
 <br>
 
-### 🚀 주요 기능 & 수행 업무
+### 🚀 수행 업무
 ![졸전_판넬_작은사이즈](https://github.com/user-attachments/assets/608c468c-12e5-4722-b6cb-25cf83b5c073)  
 
 - 스케치업으로 건물 오브젝트 모델링
